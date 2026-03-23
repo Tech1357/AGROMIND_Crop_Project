@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agriculture Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            background: url('/static/images/bg_image.jpg') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            color: #1a3d0a;
+        }
+
+        .header h1 {
+            font-size: 3.5rem;
+            font-weight: bold;
+            text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.5);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.3rem;
+            color: #2d5016;
+            text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.5);
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            padding: 40px 30px;
+            width: 280px;
+            height: 320px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.25);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2));
+        }
+
+        .card h2 {
+            font-size: 1.5rem;
+            color: #1a3d0a;
+            margin-bottom: 15px;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+        }
+
+        .card p {
+            font-size: 1rem;
+            color: #2d5016;
+            line-height: 1.5;
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.3);
+        }
+
+        .card-1 { border-top: 3px solid rgba(76, 175, 80, 0.8); }
+        .card-2 { border-top: 3px solid rgba(255, 152, 0, 0.8); }
+        .card-3 { border-top: 3px solid rgba(33, 150, 243, 0.8); }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌾 Agriculture Assistant</h1>
+        <p>Your Smart Farming Companion</p>
+    </div>
+
+    <div class="container">
+        <a href="/crop-recommendation" class="card card-1">
+            <div class="card-icon">🌱</div>
+            <h2>Crop Recommendation</h2>
+            <p>Get personalized crop suggestions based on soil and climate conditions</p>
+        </a>
+
+        <a href="/fertiliser-recommendation" class="card card-2">
+            <div class="card-icon">🧪</div>
+            <h2>Fertiliser Recommendation</h2>
+            <p>Optimize your fertilizer usage for better crop yield</p>
+        </a>
+
+        <a href="/scheme-eligibility" class="card card-3">
+            <div class="card-icon">📋</div>
+            <h2>Scheme Eligibility</h2>
+            <p>Check your eligibility for government agricultural schemes</p>
+        </a>
+    </div>
+</body>
+</html>

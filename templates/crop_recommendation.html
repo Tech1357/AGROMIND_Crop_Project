@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Recommendation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            background: url('/static/images/bg_image.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .left-panel::-webkit-scrollbar,
+        .right-panel::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Hide scrollbar for IE, Edge and Firefox */
+        .left-panel,
+        .right-panel {
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;  /* Firefox */
+        }
+
+        .back-btn {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #2d5016;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+            z-index: 100;
+        }
+
+        .back-btn:hover {
+            transform: translateX(-5px);
+        }
+
+        .split-container {
+            display: flex;
+            min-height: 100vh;
+            padding: 80px 20px 20px;
+        }
+
+        .left-panel {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px);
+        }
+
+        .right-panel {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .weather-fetch-section {
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        .fetch-weather-btn {
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+        }
+
+        .fetch-weather-btn:hover {
+            background: linear-gradient(135deg, #45a049, #4CAF50);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(76, 175, 80, 0.4);
+        }
+
+        .fetch-weather-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .location-status {
+            margin-top: 10px;
+            padding: 8px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            min-height: 20px;
+        }
+
+        .location-status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .location-status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .location-status.loading {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+
+        .section-header {
+            margin: 25px 0 15px 0;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .season-soil-selection {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 15px;
+            border: 2px solid #e9ecef;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .get-average-btn {
+            background: linear-gradient(135deg, #2196F3, #1976D2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .get-average-btn:hover {
+            background: linear-gradient(135deg, #1976D2, #2196F3);
+            transform: translateY(-1px);
+        }
+
+        .get-average-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            background: white;
+            transition: border-color 0.3s;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2d5016;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #2d5016;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            transition: border-color 0.3s;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+
+        input[readonly] {
+            background-color: #f8f9fa;
+            color: #6c757d;
+            cursor: not-allowed;
+        }
+
+        small {
+            display: block;
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 3px;
+            font-style: italic;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #45a049;
+        }
+
+        .results-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 500px;
+            margin: 0 auto;
+            position: relative;
+            flex-shrink: 0;
+        }
+
+        .results-container h2 {
+            color: #2d5016;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .crop-card {
+            background: #f9f9f9;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 2px solid transparent;
+        }
+
+        .crop-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            border-color: #4CAF50;
+        }
+
+        .crop-card-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .crop-image {
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+
+        .crop-info h3 {
+            color: #2d5016;
+            margin-bottom: 5px;
+        }
+
+        .crop-info .probability {
+            color: #4CAF50;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .crop-details {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
+            display: none;
+        }
+
+        .crop-details.active {
+            display: block;
+        }
+
+        .crop-details p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .placeholder {
+            text-align: center;
+            color: #999;
+            padding: 40px;
+        }
+
+        .placeholder h3 {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-btn">← Back to Home</a>
+    
+    <div class="split-container">
+        <div class="left-panel">
+            <div class="form-container">
+                <h1>🌱 Crop Recommendation</h1>
+                
+                <form action="/predict-crop" method="POST">
+                    <!-- Soil Values Section -->
+                    <div class="section-header">
+                        <h3>🧪 Soil Test Values (From Soil Health Card)</h3>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Nitrogen">Nitrogen (N) - kg/ha (0-140)</label>
+                        <input type="number" step="0.01" name="Nitrogen" id="Nitrogen" min="0" max="140" required>
+                        <small>Get this value from your Soil Health Card</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Phosporus">Phosphorus (P) - kg/ha (5-145)</label>
+                        <input type="number" step="0.01" name="Phosporus" id="Phosporus" min="5" max="145" required>
+                        <small>Get this value from your Soil Health Card</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Potassium">Potassium (K) - kg/ha (5-205)</label>
+                        <input type="number" step="0.01" name="Potassium" id="Potassium" min="5" max="205" required>
+                        <small>Get this value from your Soil Health Card</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Ph">pH Level (3.5-9.5)</label>
+                        <input type="number" step="0.1" name="Ph" id="Ph" min="3.5" max="9.5" required>
+                        <small>Get this value from your Soil Health Card</small>
+                    </div>
+
+                    <!-- Location & Season Selection -->
+                    <div class="weather-fetch-section">
+                        <button type="button" id="fetchWeatherBtn" class="fetch-weather-btn">
+                            📍 Get Weather Data for My Location
+                        </button>
+                        <div id="locationStatus" class="location-status"></div>
+                        
+                        <!-- Season and Soil Type Selection (Hidden initially) -->
+                        <div id="seasonSoilSelection" class="season-soil-selection" style="display: none;">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="season">Select Season</label>
+                                    <select id="season" required>
+                                        <option value="">Choose Season</option>
+                                        <option value="Kharif">Kharif (Jun-Oct) - Monsoon Season</option>
+                                        <option value="Rabi">Rabi (Nov-Apr) - Winter Season</option>
+                                        <option value="Zaid">Zaid (Apr-Jun) - Summer Season</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="soilType">Select Soil Type</label>
+                                    <select id="soilType" required>
+                                        <option value="">Choose Soil Type</option>
+                                        <option value="Alluvial">Alluvial - River deposited, fertile</option>
+                                        <option value="Black Cotton">Black Cotton - High clay, good for cotton</option>
+                                        <option value="Red Sandy">Red Sandy - Well-drained, various crops</option>
+                                        <option value="Red Laterite">Red Laterite - Iron-rich, good drainage</option>
+                                        <option value="Sandy">Sandy - Desert soils, low water retention</option>
+                                        <option value="Laterite">Laterite - Tropical, acidic</option>
+                                        <option value="Mountain Soil">Mountain Soil - High altitude, organic-rich</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button type="button" id="getAverageData" class="get-average-btn">
+                                📊 Get Average Weather Data
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Weather Values Section -->
+                    <div class="section-header">
+                        <h3>🌤️ Average Weather Conditions (Based on your location & season)</h3>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Temperature">Temperature - °C (8-44)</label>
+                        <input type="number" step="0.01" name="Temperature" id="Temperature" min="8" max="44" required readonly>
+                        <small>Average temperature for your area and season</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Humidity">Humidity - % (14-100)</label>
+                        <input type="number" step="0.01" name="Humidity" id="Humidity" min="14" max="100" required readonly>
+                        <small>Average humidity for your area and season</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Rainfall">Rainfall - mm (20-300)</label>
+                        <input type="number" step="0.01" name="Rainfall" id="Rainfall" min="20" max="300" required readonly>
+                        <small>Average rainfall for your area and season</small>
+                    </div>
+
+                    <button type="submit">Get Recommendation</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="right-panel">
+            {% if crops %}
+            <div class="results-container">
+                <h2>Top 3 Recommended Crops</h2>
+                {% for crop in crops %}
+                <div class="crop-card" onclick="toggleDetails('crop{{ loop.index }}')">
+                    <div class="crop-card-header">
+                        <img src="/static/images/Crop_images/{{ crop.name }}.jpg" alt="{{ crop.name }}" class="crop-image" onerror="this.src='/static/images/Crop_images/Rice.jpg'">
+                        <div class="crop-info">
+                            <h3>{{ loop.index }}. {{ crop.name }}</h3>
+                            <p class="probability">{{ crop.probability }}% Match</p>
+                        </div>
+                    </div>
+                    <div class="crop-details" id="crop{{ loop.index }}">
+                        <p><strong>Best Season:</strong> {{ crop.season }}</p>
+                        <p><strong>Growing Period:</strong> {{ crop.duration }}</p>
+                        <p><strong>Water Requirement:</strong> {{ crop.water }}</p>
+                        <p>{{ crop.description }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="results-container">
+                <div class="placeholder">
+                    <h3>No Results Yet</h3>
+                    <p>Fill in the form and click "Get Recommendation" to see crop suggestions</p>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function toggleDetails(id) {
+            const details = document.getElementById(id);
+            details.classList.toggle('active');
+        }
+
+        // Weather fetching functionality
+        let userLocation = null;
+        
+        // Ensure DOM is loaded before attaching event listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            // Attach event listeners for season and soil type changes
+            const seasonSelect = document.getElementById('season');
+            const soilTypeSelect = document.getElementById('soilType');
+            
+            if (seasonSelect) {
+                seasonSelect.addEventListener('change', function() {
+                    resetWeatherDataButton();
+                });
+            }
+            
+            if (soilTypeSelect) {
+                soilTypeSelect.addEventListener('change', function() {
+                    resetWeatherDataButton();
+                });
+            }
+        });
+        
+        document.getElementById('fetchWeatherBtn').addEventListener('click', function() {
+            const btn = this;
+            const statusDiv = document.getElementById('locationStatus');
+            
+            // Disable button and show loading
+            btn.disabled = true;
+            btn.textContent = '🔄 Getting your location...';
+            statusDiv.className = 'location-status loading';
+            statusDiv.textContent = 'Requesting location access...';
+            
+            // Check if geolocation is supported
+            if (!navigator.geolocation) {
+                showError('Geolocation is not supported by this browser.');
+                return;
+            }
+            
+            // Get user's location
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    userLocation = {
+                        lat: position.coords.latitude,
+                        lon: position.coords.longitude
+                    };
+                    
+                    statusDiv.className = 'location-status success';
+                    statusDiv.textContent = `✅ Location detected! Latitude: ${userLocation.lat.toFixed(4)}, Longitude: ${userLocation.lon.toFixed(4)}. Please select season and soil type below.`;
+                    
+                    // Show season and soil type selection
+                    document.getElementById('seasonSoilSelection').style.display = 'block';
+                    
+                    btn.textContent = '✅ Location Detected';
+                    btn.style.background = '#28a745';
+                },
+                function(error) {
+                    let errorMessage = 'Unable to get your location. ';
+                    switch(error.code) {
+                        case error.PERMISSION_DENIED:
+                            errorMessage += 'Please allow location access and try again.';
+                            break;
+                        case error.POSITION_UNAVAILABLE:
+                            errorMessage += 'Location information is unavailable.';
+                            break;
+                        case error.TIMEOUT:
+                            errorMessage += 'Location request timed out.';
+                            break;
+                        default:
+                            errorMessage += 'An unknown error occurred.';
+                            break;
+                    }
+                    showError(errorMessage);
+                },
+                {
+                    enableHighAccuracy: true,
+                    timeout: 10000,
+                    maximumAge: 300000 // 5 minutes
+                }
+            );
+            
+            function showError(message) {
+                statusDiv.className = 'location-status error';
+                statusDiv.textContent = message;
+                btn.disabled = false;
+                btn.textContent = '📍 Get Weather Data for My Location';
+                btn.style.background = '';
+            }
+        });
+
+        // Get average weather data
+        document.getElementById('getAverageData').addEventListener('click', function() {
+            const btn = this;
+            const season = document.getElementById('season').value;
+            const soilType = document.getElementById('soilType').value;
+            const statusDiv = document.getElementById('locationStatus');
+            
+            if (!season || !soilType) {
+                alert('Please select both season and soil type before getting weather data.');
+                return;
+            }
+            
+            if (!userLocation) {
+                alert('Please get your location first.');
+                return;
+            }
+            
+            // Disable button and show loading
+            btn.disabled = true;
+            btn.textContent = '🔄 Getting weather data...';
+            statusDiv.className = 'location-status loading';
+            statusDiv.textContent = 'Fetching average weather data for your area...';
+            
+            // Fetch average weather data
+            fetch('/get-weather-by-location', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    latitude: userLocation.lat,
+                    longitude: userLocation.lon,
+                    season: season,
+                    soil_type: soilType
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Fill in the weather data
+                    document.getElementById('Temperature').value = data.temperature;
+                    document.getElementById('Humidity').value = data.humidity;
+                    document.getElementById('Rainfall').value = data.rainfall;
+                    
+                    // Enable the fields temporarily to allow form submission
+                    document.getElementById('Temperature').removeAttribute('readonly');
+                    document.getElementById('Humidity').removeAttribute('readonly');
+                    document.getElementById('Rainfall').removeAttribute('readonly');
+                    
+                    // Show success message
+                    statusDiv.className = 'location-status success';
+                    statusDiv.innerHTML = `
+                        ✅ Average weather data loaded for ${data.location}<br>
+                        🌡️ ${data.temperature}°C | 💧 ${data.humidity}% | 🌧️ ${data.rainfall}mm<br>
+                        📅 Season: ${data.season} | 🌱 Soil: ${data.soil_type}<br>
+                        <small>Climate Zone: ${data.climate_zone} | Scaled for ML model</small>
+                    `;
+                    
+                    btn.textContent = '✅ Weather Data Loaded';
+                    btn.style.background = '#28a745';
+                } else {
+                    showDataError(data.error || 'Failed to fetch weather data');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                showDataError('Network error. Please try again.');
+            });
+            
+            function showDataError(message) {
+                statusDiv.className = 'location-status error';
+                statusDiv.textContent = message;
+                btn.disabled = false;
+                btn.textContent = '📊 Get Average Weather Data';
+                btn.style.background = '';
+            }
+        });
+
+        function resetWeatherDataButton() {
+            const btn = document.getElementById('getAverageData');
+            const statusDiv = document.getElementById('locationStatus');
+            
+            // Check if location is detected and button exists
+            if (btn && userLocation) {
+                // Reset button state
+                btn.disabled = false;
+                btn.textContent = '📊 Get Average Weather Data';
+                btn.style.background = 'linear-gradient(135deg, #2196F3, #1976D2)';
+                
+                // Clear weather input fields
+                document.getElementById('Temperature').value = '';
+                document.getElementById('Humidity').value = '';
+                document.getElementById('Rainfall').value = '';
+                
+                // Add readonly back to weather fields
+                document.getElementById('Temperature').setAttribute('readonly', true);
+                document.getElementById('Humidity').setAttribute('readonly', true);
+                document.getElementById('Rainfall').setAttribute('readonly', true);
+                
+                // Update status message
+                if (statusDiv) {
+                    statusDiv.className = 'location-status success';
+                    statusDiv.textContent = `✅ Location detected! Season/soil type changed. Click "Get Average Weather Data" to update weather values.`;
+                }
+            }
+        }
+
+        // Form submission handler
+        document.querySelector('form').addEventListener('submit', function(e) {
+            const tempField = document.getElementById('Temperature');
+            const humidField = document.getElementById('Humidity');
+            const rainField = document.getElementById('Rainfall');
+            
+            // Check if weather data is filled
+            if (!tempField.value || !humidField.value || !rainField.value) {
+                e.preventDefault();
+                alert('Please fetch weather conditions first by clicking the "Get Weather Data for My Location" button.');
+                return false;
+            }
+            
+            // Remove readonly attribute before submission
+            tempField.removeAttribute('readonly');
+            humidField.removeAttribute('readonly');
+            rainField.removeAttribute('readonly');
+            
+            // Scroll to results after form submission
+            setTimeout(() => {
+                const rightPanel = document.querySelector('.right-panel');
+                if (rightPanel) {
+                    rightPanel.scrollTop = 0;
+                }
+            }, 100);
+        });
+
+        // Ensure proper scrolling when results are loaded
+        window.addEventListener('load', function() {
+            const rightPanel = document.querySelector('.right-panel');
+            const resultsContainer = document.querySelector('.results-container');
+            
+            if (rightPanel && resultsContainer) {
+                // Check if we have results (not placeholder)
+                const hasResults = !resultsContainer.querySelector('.placeholder');
+                if (hasResults) {
+                    // Scroll to top of results
+                    rightPanel.scrollTop = 0;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fertiliser Recommendation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            background: url('/static/images/bg_image.jpg') no-repeat center center fixed;
+            background-size: cover;
+            overflow: hidden;
+        }
+
+        .left-panel::-webkit-scrollbar,
+        .right-panel::-webkit-scrollbar {
+            display: none;
+        }
+
+        .left-panel,
+        .right-panel {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        .back-btn {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #2d5016;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+            z-index: 100;
+        }
+
+        .back-btn:hover {
+            transform: translateX(-5px);
+        }
+
+        .split-container {
+            display: flex;
+            height: 100vh;
+            padding: 80px 20px 20px;
+        }
+
+        .left-panel {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .right-panel {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .form-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2d5016;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #2d5016;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            transition: border-color 0.3s;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #FF9800;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #FF9800;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #F57C00;
+        }
+
+        .results-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .results-container h2 {
+            color: #2d5016;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .deficiency-card {
+            background: #fff3e0;
+            border-left: 4px solid #FF9800;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .deficiency-card h3 {
+            color: #FF9800;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .deficiency-card p {
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .fertilizer-card {
+            background: #e8f5e9;
+            border-left: 4px solid #4CAF50;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+
+        .fertilizer-card h3 {
+            color: #4CAF50;
+            margin-bottom: 10px;
+        }
+
+        .fertilizer-card .quantity {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #2d5016;
+            margin: 10px 0;
+        }
+
+        .buy-btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: #FF9800;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .buy-btn:hover {
+            background: #F57C00;
+        }
+
+        .placeholder {
+            text-align: center;
+            color: #999;
+            padding: 40px;
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-btn">← Back to Home</a>
+    
+    <div class="split-container">
+        <div class="left-panel">
+            <div class="form-container">
+                <h1>🧪 Fertiliser Recommendation</h1>
+                
+                <form action="/recommend-fertiliser" method="POST">
+                    <div class="form-group">
+                        <label for="crop">Crop *</label>
+                        <select name="crop" id="crop" required>
+                            <option value="">Select Crop</option>
+                            <option value="Rice">Rice</option>
+                            <option value="Maize">Maize</option>
+                            <option value="Jute">Jute</option>
+                            <option value="Cotton">Cotton</option>
+                            <option value="Coconut">Coconut</option>
+                            <option value="Papaya">Papaya</option>
+                            <option value="Orange">Orange</option>
+                            <option value="Apple">Apple</option>
+                            <option value="Muskmelon">Muskmelon</option>
+                            <option value="Watermelon">Watermelon</option>
+                            <option value="Grapes">Grapes</option>
+                            <option value="Mango">Mango</option>
+                            <option value="Banana">Banana</option>
+                            <option value="Pomegranate">Pomegranate</option>
+                            <option value="Lentil">Lentil</option>
+                            <option value="Blackgram">Blackgram</option>
+                            <option value="Mungbean">Mungbean</option>
+                            <option value="Mothbeans">Mothbeans</option>
+                            <option value="Pigeonpeas">Pigeonpeas</option>
+                            <option value="Kidneybeans">Kidneybeans</option>
+                            <option value="Chickpea">Chickpea</option>
+                            <option value="Coffee">Coffee</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nitrogen">Current Nitrogen (N) - kg/ha (0-200)</label>
+                        <input type="number" step="0.01" name="nitrogen" id="nitrogen" min="0" max="200" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="phosphorus">Current Phosphorus (P) - kg/ha (0-150)</label>
+                        <input type="number" step="0.01" name="phosphorus" id="phosphorus" min="0" max="150" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="potassium">Current Potassium (K) - kg/ha (0-250)</label>
+                        <input type="number" step="0.01" name="potassium" id="potassium" min="0" max="250" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ph">Soil pH (3.5-9.5)</label>
+                        <input type="number" step="0.1" name="ph" id="ph" min="3.5" max="9.5" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="land_area">Land Area - acres (0.1-100)</label>
+                        <input type="number" step="0.01" name="land_area" id="land_area" min="0.1" max="100" required>
+                    </div>
+
+                    <button type="submit">Get Recommendation</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="right-panel">
+            {% if recommendation %}
+            <div class="results-container">
+                <h2>Fertiliser Recommendation</h2>
+                
+                {% if recommendation.deficiencies %}
+                <h3 style="color: #FF9800; margin-bottom: 15px;">Detected Deficiencies</h3>
+                {% for def in recommendation.deficiencies %}
+                <div class="deficiency-card">
+                    <h3>{{ def.nutrient }} Deficiency</h3>
+                    <p><strong>Current:</strong> {{ def.current }} kg/ha</p>
+                    <p><strong>Required:</strong> {{ def.required }} kg/ha</p>
+                    <p><strong>Deficit:</strong> {{ def.deficit }} kg/ha</p>
+                </div>
+                {% endfor %}
+                {% endif %}
+
+                <h3 style="color: #4CAF50; margin: 20px 0 15px;">Recommended Fertilizers</h3>
+                {% for fert in recommendation.fertilizers %}
+                <div class="fertilizer-card">
+                    <h3>{{ fert.name }}</h3>
+                    <p>{{ fert.description }}</p>
+                    <p class="quantity">📦 Quantity: {{ fert.quantity }} kg for {{ recommendation.land_area }} acres</p>
+                    <p><strong>Application:</strong> {{ fert.application }}</p>
+                    {% if fert.buy_url %}
+                    <a href="{{ fert.buy_url }}" target="_blank" class="buy-btn">Buy Online →</a>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="results-container">
+                <div class="placeholder">
+                    <h3>No Results Yet</h3>
+                    <p>Fill in the form and click "Get Recommendation" to see fertilizer suggestions</p>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

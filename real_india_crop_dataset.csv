@@ -1,0 +1,2206 @@
+State,District,Season,Climate_Zone,Avg_Temperature_C,Avg_Rainfall_mm,Avg_Humidity_%,Soil_Type,Soil_pH
+Andhra Pradesh,Anantapur,Kharif,Semi-arid,25.4,531,63,Red Sandy,6.7
+Andhra Pradesh,Anantapur,Rabi,Semi-arid,22.4,132,48,Red Sandy,6.7
+Andhra Pradesh,Anantapur,Zaid,Semi-arid,32.4,88,43,Red Sandy,6.7
+Andhra Pradesh,Chittoor,Kharif,Semi-arid,25.1,1458,77,Red Sandy,5.6
+Andhra Pradesh,Chittoor,Rabi,Semi-arid,22.1,364,62,Red Sandy,5.6
+Andhra Pradesh,Chittoor,Zaid,Semi-arid,32.1,243,57,Red Sandy,5.6
+Andhra Pradesh,East Godavari,Kharif,Semi-arid,25.8,1345,77,Red Sandy,6.3
+Andhra Pradesh,East Godavari,Rabi,Semi-arid,22.8,336,62,Red Sandy,6.3
+Andhra Pradesh,East Godavari,Zaid,Semi-arid,32.8,224,57,Red Sandy,6.3
+Andhra Pradesh,Guntur,Kharif,Semi-arid,26.3,1309,75,Red Sandy,5.6
+Andhra Pradesh,Guntur,Rabi,Semi-arid,23.3,327,60,Red Sandy,5.6
+Andhra Pradesh,Guntur,Zaid,Semi-arid,33.3,218,55,Red Sandy,5.6
+Andhra Pradesh,Krishna,Kharif,Semi-arid,26.3,1320,81,Red Sandy,6.1
+Andhra Pradesh,Krishna,Rabi,Semi-arid,23.3,330,66,Red Sandy,6.1
+Andhra Pradesh,Krishna,Zaid,Semi-arid,33.3,220,61,Red Sandy,6.1
+Andhra Pradesh,Kurnool,Kharif,Semi-arid,26.1,688,63,Red Sandy,5.8
+Andhra Pradesh,Kurnool,Rabi,Semi-arid,23.1,172,48,Red Sandy,5.8
+Andhra Pradesh,Kurnool,Zaid,Semi-arid,33.1,114,43,Red Sandy,5.8
+Andhra Pradesh,Nellore,Kharif,Semi-arid,26.8,1374,74,Red Sandy,5.5
+Andhra Pradesh,Nellore,Rabi,Semi-arid,23.8,343,59,Red Sandy,5.5
+Andhra Pradesh,Nellore,Zaid,Semi-arid,33.8,229,54,Red Sandy,5.5
+Andhra Pradesh,Prakasam,Kharif,Semi-arid,26.7,1106,74,Red Sandy,6.0
+Andhra Pradesh,Prakasam,Rabi,Semi-arid,23.7,276,59,Red Sandy,6.0
+Andhra Pradesh,Prakasam,Zaid,Semi-arid,33.7,184,54,Red Sandy,6.0
+Andhra Pradesh,Srikakulam,Kharif,Semi-arid,25.1,1488,76,Red Sandy,6.3
+Andhra Pradesh,Srikakulam,Rabi,Semi-arid,22.1,372,61,Red Sandy,6.3
+Andhra Pradesh,Srikakulam,Zaid,Semi-arid,32.1,248,56,Red Sandy,6.3
+Andhra Pradesh,Visakhapatnam,Kharif,Semi-arid,25.6,1530,81,Red Sandy,5.9
+Andhra Pradesh,Visakhapatnam,Rabi,Semi-arid,22.6,382,66,Red Sandy,5.9
+Andhra Pradesh,Visakhapatnam,Zaid,Semi-arid,32.6,255,61,Red Sandy,5.9
+Andhra Pradesh,Vizianagaram,Kharif,Semi-arid,24.1,1576,77,Red Sandy,5.6
+Andhra Pradesh,Vizianagaram,Rabi,Semi-arid,21.1,394,62,Red Sandy,5.6
+Andhra Pradesh,Vizianagaram,Zaid,Semi-arid,31.1,262,57,Red Sandy,5.6
+Andhra Pradesh,West Godavari,Kharif,Semi-arid,26.2,1375,78,Red Sandy,5.9
+Andhra Pradesh,West Godavari,Rabi,Semi-arid,23.2,343,63,Red Sandy,5.9
+Andhra Pradesh,West Godavari,Zaid,Semi-arid,33.2,229,58,Red Sandy,5.9
+Andhra Pradesh,YSR Kadapa,Kharif,Semi-arid,26.2,783,67,Red Sandy,6.1
+Andhra Pradesh,YSR Kadapa,Rabi,Semi-arid,23.2,195,52,Red Sandy,6.1
+Andhra Pradesh,YSR Kadapa,Zaid,Semi-arid,33.2,130,47,Red Sandy,6.1
+Arunachal Pradesh,Anjaw,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Arunachal Pradesh,Anjaw,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Arunachal Pradesh,Anjaw,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Arunachal Pradesh,Changlang,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Arunachal Pradesh,Changlang,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Arunachal Pradesh,Changlang,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Arunachal Pradesh,Dibang Valley,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Arunachal Pradesh,Dibang Valley,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Arunachal Pradesh,Dibang Valley,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+Arunachal Pradesh,East Kameng,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Arunachal Pradesh,East Kameng,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Arunachal Pradesh,East Kameng,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Arunachal Pradesh,East Siang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Arunachal Pradesh,East Siang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Arunachal Pradesh,East Siang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Arunachal Pradesh,Kamle,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.8
+Arunachal Pradesh,Kamle,Rabi,Mountain,21.6,371,50,Mountain Soil,5.8
+Arunachal Pradesh,Kamle,Zaid,Mountain,31.6,247,45,Mountain Soil,5.8
+Arunachal Pradesh,Kra Daadi,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Arunachal Pradesh,Kra Daadi,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Arunachal Pradesh,Kra Daadi,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Arunachal Pradesh,Kurung Kumey,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Arunachal Pradesh,Kurung Kumey,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Arunachal Pradesh,Kurung Kumey,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Arunachal Pradesh,Lepa Rada,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.8
+Arunachal Pradesh,Lepa Rada,Rabi,Mountain,21.6,371,50,Mountain Soil,6.8
+Arunachal Pradesh,Lepa Rada,Zaid,Mountain,31.6,247,45,Mountain Soil,6.8
+Arunachal Pradesh,Lohit,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Arunachal Pradesh,Lohit,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Arunachal Pradesh,Lohit,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Arunachal Pradesh,Longding,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Arunachal Pradesh,Longding,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Arunachal Pradesh,Longding,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Arunachal Pradesh,Lower Dibang Valley,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Arunachal Pradesh,Lower Dibang Valley,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Arunachal Pradesh,Lower Dibang Valley,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Arunachal Pradesh,Lower Siang,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Arunachal Pradesh,Lower Siang,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Arunachal Pradesh,Lower Siang,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+Arunachal Pradesh,Lower Subansiri,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Arunachal Pradesh,Lower Subansiri,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Arunachal Pradesh,Lower Subansiri,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Arunachal Pradesh,Namsai,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Arunachal Pradesh,Namsai,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Arunachal Pradesh,Namsai,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Arunachal Pradesh,Pakke Kessang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Arunachal Pradesh,Pakke Kessang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Arunachal Pradesh,Pakke Kessang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Arunachal Pradesh,Papum Pare,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Arunachal Pradesh,Papum Pare,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Arunachal Pradesh,Papum Pare,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Arunachal Pradesh,Shi Yomi,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Arunachal Pradesh,Shi Yomi,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Arunachal Pradesh,Shi Yomi,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Arunachal Pradesh,Siang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Arunachal Pradesh,Siang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Arunachal Pradesh,Siang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Arunachal Pradesh,Tawang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Arunachal Pradesh,Tawang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Arunachal Pradesh,Tawang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Arunachal Pradesh,Tirap,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Arunachal Pradesh,Tirap,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Arunachal Pradesh,Tirap,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Arunachal Pradesh,Upper Siang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Arunachal Pradesh,Upper Siang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Arunachal Pradesh,Upper Siang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Arunachal Pradesh,Upper Subansiri,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Arunachal Pradesh,Upper Subansiri,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Arunachal Pradesh,Upper Subansiri,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Arunachal Pradesh,West Kameng,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Arunachal Pradesh,West Kameng,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Arunachal Pradesh,West Kameng,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Arunachal Pradesh,West Siang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Arunachal Pradesh,West Siang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Arunachal Pradesh,West Siang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Assam,Baksa,Kharif,Tropical,21.4,2563,81,Alluvial,6.6
+Assam,Baksa,Rabi,Tropical,18.4,512,66,Alluvial,6.6
+Assam,Baksa,Zaid,Tropical,28.4,341,61,Alluvial,6.6
+Assam,Barpeta,Kharif,Tropical,21.4,2563,81,Alluvial,7.3
+Assam,Barpeta,Rabi,Tropical,18.4,512,66,Alluvial,7.3
+Assam,Barpeta,Zaid,Tropical,28.4,341,61,Alluvial,7.3
+Assam,Biswanath,Kharif,Tropical,21.4,2563,81,Alluvial,6.9
+Assam,Biswanath,Rabi,Tropical,18.4,512,66,Alluvial,6.9
+Assam,Biswanath,Zaid,Tropical,28.4,341,61,Alluvial,6.9
+Assam,Bongaigaon,Kharif,Tropical,21.4,2563,81,Alluvial,6.9
+Assam,Bongaigaon,Rabi,Tropical,18.4,512,66,Alluvial,6.9
+Assam,Bongaigaon,Zaid,Tropical,28.4,341,61,Alluvial,6.9
+Assam,Cachar,Kharif,Tropical,21.4,2563,81,Alluvial,7.1
+Assam,Cachar,Rabi,Tropical,18.4,512,66,Alluvial,7.1
+Assam,Cachar,Zaid,Tropical,28.4,341,61,Alluvial,7.1
+Assam,Charaideo,Kharif,Tropical,21.4,2563,81,Alluvial,7.2
+Assam,Charaideo,Rabi,Tropical,18.4,512,66,Alluvial,7.2
+Assam,Charaideo,Zaid,Tropical,28.4,341,61,Alluvial,7.2
+Assam,Chirang,Kharif,Tropical,21.4,2563,81,Alluvial,7.1
+Assam,Chirang,Rabi,Tropical,18.4,512,66,Alluvial,7.1
+Assam,Chirang,Zaid,Tropical,28.4,341,61,Alluvial,7.1
+Assam,Darrang,Kharif,Tropical,21.4,2563,81,Alluvial,7.3
+Assam,Darrang,Rabi,Tropical,18.4,512,66,Alluvial,7.3
+Assam,Darrang,Zaid,Tropical,28.4,341,61,Alluvial,7.3
+Assam,Dhemaji,Kharif,Tropical,21.4,2563,81,Alluvial,6.6
+Assam,Dhemaji,Rabi,Tropical,18.4,512,66,Alluvial,6.6
+Assam,Dhemaji,Zaid,Tropical,28.4,341,61,Alluvial,6.6
+Assam,Dhubri,Kharif,Tropical,21.4,2563,81,Alluvial,6.5
+Assam,Dhubri,Rabi,Tropical,18.4,512,66,Alluvial,6.5
+Assam,Dhubri,Zaid,Tropical,28.4,341,61,Alluvial,6.5
+Assam,Dibrugarh,Kharif,Tropical,22.7,3537,77,Alluvial,7.0
+Assam,Dibrugarh,Rabi,Tropical,19.7,707,62,Alluvial,7.0
+Assam,Dibrugarh,Zaid,Tropical,29.7,471,57,Alluvial,7.0
+Assam,Goalpara,Kharif,Tropical,21.4,2563,81,Alluvial,7.2
+Assam,Goalpara,Rabi,Tropical,18.4,512,66,Alluvial,7.2
+Assam,Goalpara,Zaid,Tropical,28.4,341,61,Alluvial,7.2
+Assam,Golaghat,Kharif,Tropical,21.4,2563,81,Alluvial,7.1
+Assam,Golaghat,Rabi,Tropical,18.4,512,66,Alluvial,7.1
+Assam,Golaghat,Zaid,Tropical,28.4,341,61,Alluvial,7.1
+Assam,Hailakandi,Kharif,Tropical,21.4,2563,81,Alluvial,7.5
+Assam,Hailakandi,Rabi,Tropical,18.4,512,66,Alluvial,7.5
+Assam,Hailakandi,Zaid,Tropical,28.4,341,61,Alluvial,7.5
+Assam,Hojai,Kharif,Tropical,21.4,2563,81,Alluvial,6.8
+Assam,Hojai,Rabi,Tropical,18.4,512,66,Alluvial,6.8
+Assam,Hojai,Zaid,Tropical,28.4,341,61,Alluvial,6.8
+Assam,Jorhat,Kharif,Tropical,22.3,3103,80,Alluvial,6.8
+Assam,Jorhat,Rabi,Tropical,19.3,620,65,Alluvial,6.8
+Assam,Jorhat,Zaid,Tropical,29.3,413,60,Alluvial,6.8
+Assam,Kamrup,Kharif,Tropical,21.4,2563,81,Alluvial,7.0
+Assam,Kamrup,Rabi,Tropical,18.4,512,66,Alluvial,7.0
+Assam,Kamrup,Zaid,Tropical,28.4,341,61,Alluvial,7.0
+Assam,Kamrup Metropolitan,Kharif,Tropical,21.4,2563,81,Alluvial,6.7
+Assam,Kamrup Metropolitan,Rabi,Tropical,18.4,512,66,Alluvial,6.7
+Assam,Kamrup Metropolitan,Zaid,Tropical,28.4,341,61,Alluvial,6.7
+Assam,Karbi Anglong,Kharif,Tropical,21.4,2563,81,Alluvial,6.8
+Assam,Karbi Anglong,Rabi,Tropical,18.4,512,66,Alluvial,6.8
+Assam,Karbi Anglong,Zaid,Tropical,28.4,341,61,Alluvial,6.8
+Assam,Karimganj,Kharif,Tropical,21.4,2563,81,Alluvial,6.9
+Assam,Karimganj,Rabi,Tropical,18.4,512,66,Alluvial,6.9
+Assam,Karimganj,Zaid,Tropical,28.4,341,61,Alluvial,6.9
+Assam,Kokrajhar,Kharif,Tropical,21.4,2563,81,Alluvial,6.5
+Assam,Kokrajhar,Rabi,Tropical,18.4,512,66,Alluvial,6.5
+Assam,Kokrajhar,Zaid,Tropical,28.4,341,61,Alluvial,6.5
+Assam,Lakhimpur,Kharif,Tropical,21.4,2563,81,Alluvial,7.4
+Assam,Lakhimpur,Rabi,Tropical,18.4,512,66,Alluvial,7.4
+Assam,Lakhimpur,Zaid,Tropical,28.4,341,61,Alluvial,7.4
+Assam,Majuli,Kharif,Tropical,21.4,2563,81,Alluvial,7.0
+Assam,Majuli,Rabi,Tropical,18.4,512,66,Alluvial,7.0
+Assam,Majuli,Zaid,Tropical,28.4,341,61,Alluvial,7.0
+Assam,Morigaon,Kharif,Tropical,21.4,2563,81,Alluvial,7.5
+Assam,Morigaon,Rabi,Tropical,18.4,512,66,Alluvial,7.5
+Assam,Morigaon,Zaid,Tropical,28.4,341,61,Alluvial,7.5
+Assam,Nagaon,Kharif,Tropical,21.4,2563,81,Alluvial,6.8
+Assam,Nagaon,Rabi,Tropical,18.4,512,66,Alluvial,6.8
+Assam,Nagaon,Zaid,Tropical,28.4,341,61,Alluvial,6.8
+Assam,Nalbari,Kharif,Tropical,21.4,2563,81,Alluvial,7.2
+Assam,Nalbari,Rabi,Tropical,18.4,512,66,Alluvial,7.2
+Assam,Nalbari,Zaid,Tropical,28.4,341,61,Alluvial,7.2
+Assam,Dima Hasao,Kharif,Tropical,21.4,2563,81,Alluvial,7.3
+Assam,Dima Hasao,Rabi,Tropical,18.4,512,66,Alluvial,7.3
+Assam,Dima Hasao,Zaid,Tropical,28.4,341,61,Alluvial,7.3
+Assam,Sivasagar,Kharif,Tropical,21.4,2563,81,Alluvial,6.8
+Assam,Sivasagar,Rabi,Tropical,18.4,512,66,Alluvial,6.8
+Assam,Sivasagar,Zaid,Tropical,28.4,341,61,Alluvial,6.8
+Assam,Sonitpur,Kharif,Tropical,21.4,2563,81,Alluvial,7.5
+Assam,Sonitpur,Rabi,Tropical,18.4,512,66,Alluvial,7.5
+Assam,Sonitpur,Zaid,Tropical,28.4,341,61,Alluvial,7.5
+Assam,South Salmara-Mankachar,Kharif,Tropical,21.4,2563,81,Alluvial,7.5
+Assam,South Salmara-Mankachar,Rabi,Tropical,18.4,512,66,Alluvial,7.5
+Assam,South Salmara-Mankachar,Zaid,Tropical,28.4,341,61,Alluvial,7.5
+Assam,Tinsukia,Kharif,Tropical,21.4,2563,81,Alluvial,7.3
+Assam,Tinsukia,Rabi,Tropical,18.4,512,66,Alluvial,7.3
+Assam,Tinsukia,Zaid,Tropical,28.4,341,61,Alluvial,7.3
+Assam,Udalguri,Kharif,Tropical,21.4,2563,81,Alluvial,7.0
+Assam,Udalguri,Rabi,Tropical,18.4,512,66,Alluvial,7.0
+Assam,Udalguri,Zaid,Tropical,28.4,341,61,Alluvial,7.0
+Assam,West Karbi Anglong,Kharif,Tropical,21.4,2563,81,Alluvial,6.5
+Assam,West Karbi Anglong,Rabi,Tropical,18.4,512,66,Alluvial,6.5
+Assam,West Karbi Anglong,Zaid,Tropical,28.4,341,61,Alluvial,6.5
+Bihar,Araria,Kharif,Tropical,24.8,1243,60,Alluvial,7.5
+Bihar,Araria,Rabi,Tropical,21.8,248,45,Alluvial,7.5
+Bihar,Araria,Zaid,Tropical,31.8,165,40,Alluvial,7.5
+Bihar,Arwal,Kharif,Tropical,24.8,1243,60,Alluvial,6.6
+Bihar,Arwal,Rabi,Tropical,21.8,248,45,Alluvial,6.6
+Bihar,Arwal,Zaid,Tropical,31.8,165,40,Alluvial,6.6
+Bihar,Aurangabad,Kharif,Tropical,23.4,1173,62,Alluvial,7.1
+Bihar,Aurangabad,Rabi,Tropical,20.4,234,47,Alluvial,7.1
+Bihar,Aurangabad,Zaid,Tropical,30.4,156,42,Alluvial,7.1
+Bihar,Banka,Kharif,Tropical,24.8,1243,60,Alluvial,6.6
+Bihar,Banka,Rabi,Tropical,21.8,248,45,Alluvial,6.6
+Bihar,Banka,Zaid,Tropical,31.8,165,40,Alluvial,6.6
+Bihar,Begusarai,Kharif,Tropical,24.8,1243,60,Alluvial,7.0
+Bihar,Begusarai,Rabi,Tropical,21.8,248,45,Alluvial,7.0
+Bihar,Begusarai,Zaid,Tropical,31.8,165,40,Alluvial,7.0
+Bihar,Bhagalpur,Kharif,Tropical,24.1,2242,67,Alluvial,7.3
+Bihar,Bhagalpur,Rabi,Tropical,21.1,448,52,Alluvial,7.3
+Bihar,Bhagalpur,Zaid,Tropical,31.1,299,47,Alluvial,7.3
+Bihar,Bhojpur,Kharif,Tropical,24.8,1243,60,Alluvial,6.9
+Bihar,Bhojpur,Rabi,Tropical,21.8,248,45,Alluvial,6.9
+Bihar,Bhojpur,Zaid,Tropical,31.8,165,40,Alluvial,6.9
+Bihar,Buxar,Kharif,Tropical,24.8,1243,60,Alluvial,6.7
+Bihar,Buxar,Rabi,Tropical,21.8,248,45,Alluvial,6.7
+Bihar,Buxar,Zaid,Tropical,31.8,165,40,Alluvial,6.7
+Bihar,Darbhanga,Kharif,Tropical,24.5,1779,63,Alluvial,6.6
+Bihar,Darbhanga,Rabi,Tropical,21.5,355,48,Alluvial,6.6
+Bihar,Darbhanga,Zaid,Tropical,31.5,237,43,Alluvial,6.6
+Bihar,East Champaran,Kharif,Tropical,24.8,1243,60,Alluvial,7.0
+Bihar,East Champaran,Rabi,Tropical,21.8,248,45,Alluvial,7.0
+Bihar,East Champaran,Zaid,Tropical,31.8,165,40,Alluvial,7.0
+Bihar,Gaya,Kharif,Tropical,24.8,1225,59,Alluvial,6.7
+Bihar,Gaya,Rabi,Tropical,21.8,245,44,Alluvial,6.7
+Bihar,Gaya,Zaid,Tropical,31.8,163,39,Alluvial,6.7
+Bihar,Gopalganj,Kharif,Tropical,24.8,1243,60,Alluvial,7.4
+Bihar,Gopalganj,Rabi,Tropical,21.8,248,45,Alluvial,7.4
+Bihar,Gopalganj,Zaid,Tropical,31.8,165,40,Alluvial,7.4
+Bihar,Jamui,Kharif,Tropical,24.8,1243,60,Alluvial,6.8
+Bihar,Jamui,Rabi,Tropical,21.8,248,45,Alluvial,6.8
+Bihar,Jamui,Zaid,Tropical,31.8,165,40,Alluvial,6.8
+Bihar,Jehanabad,Kharif,Tropical,24.8,1243,60,Alluvial,7.3
+Bihar,Jehanabad,Rabi,Tropical,21.8,248,45,Alluvial,7.3
+Bihar,Jehanabad,Zaid,Tropical,31.8,165,40,Alluvial,7.3
+Bihar,Kaimur,Kharif,Tropical,24.8,1243,60,Alluvial,7.3
+Bihar,Kaimur,Rabi,Tropical,21.8,248,45,Alluvial,7.3
+Bihar,Kaimur,Zaid,Tropical,31.8,165,40,Alluvial,7.3
+Bihar,Katihar,Kharif,Tropical,24.8,1243,60,Alluvial,7.1
+Bihar,Katihar,Rabi,Tropical,21.8,248,45,Alluvial,7.1
+Bihar,Katihar,Zaid,Tropical,31.8,165,40,Alluvial,7.1
+Bihar,Khagaria,Kharif,Tropical,24.8,1243,60,Alluvial,7.3
+Bihar,Khagaria,Rabi,Tropical,21.8,248,45,Alluvial,7.3
+Bihar,Khagaria,Zaid,Tropical,31.8,165,40,Alluvial,7.3
+Bihar,Kishanganj,Kharif,Tropical,24.8,1243,60,Alluvial,7.5
+Bihar,Kishanganj,Rabi,Tropical,21.8,248,45,Alluvial,7.5
+Bihar,Kishanganj,Zaid,Tropical,31.8,165,40,Alluvial,7.5
+Bihar,Lakhisarai,Kharif,Tropical,24.8,1243,60,Alluvial,7.0
+Bihar,Lakhisarai,Rabi,Tropical,21.8,248,45,Alluvial,7.0
+Bihar,Lakhisarai,Zaid,Tropical,31.8,165,40,Alluvial,7.0
+Bihar,Madhepura,Kharif,Tropical,24.8,1243,60,Alluvial,6.9
+Bihar,Madhepura,Rabi,Tropical,21.8,248,45,Alluvial,6.9
+Bihar,Madhepura,Zaid,Tropical,31.8,165,40,Alluvial,6.9
+Bihar,Madhubani,Kharif,Tropical,24.8,1243,60,Alluvial,7.2
+Bihar,Madhubani,Rabi,Tropical,21.8,248,45,Alluvial,7.2
+Bihar,Madhubani,Zaid,Tropical,31.8,165,40,Alluvial,7.2
+Bihar,Munger,Kharif,Tropical,24.8,1243,60,Alluvial,7.1
+Bihar,Munger,Rabi,Tropical,21.8,248,45,Alluvial,7.1
+Bihar,Munger,Zaid,Tropical,31.8,165,40,Alluvial,7.1
+Bihar,Muzaffarpur,Kharif,Tropical,24.5,1779,63,Alluvial,7.4
+Bihar,Muzaffarpur,Rabi,Tropical,21.5,355,48,Alluvial,7.4
+Bihar,Muzaffarpur,Zaid,Tropical,31.5,237,43,Alluvial,7.4
+Bihar,Nalanda,Kharif,Tropical,24.8,1243,60,Alluvial,7.1
+Bihar,Nalanda,Rabi,Tropical,21.8,248,45,Alluvial,7.1
+Bihar,Nalanda,Zaid,Tropical,31.8,165,40,Alluvial,7.1
+Bihar,Nawada,Kharif,Tropical,24.8,1243,60,Alluvial,7.2
+Bihar,Nawada,Rabi,Tropical,21.8,248,45,Alluvial,7.2
+Bihar,Nawada,Zaid,Tropical,31.8,165,40,Alluvial,7.2
+Bihar,Patna,Kharif,Tropical,24.8,1243,60,Alluvial,7.4
+Bihar,Patna,Rabi,Tropical,21.8,248,45,Alluvial,7.4
+Bihar,Patna,Zaid,Tropical,31.8,165,40,Alluvial,7.4
+Bihar,Purnia,Kharif,Tropical,24.8,1243,60,Alluvial,7.2
+Bihar,Purnia,Rabi,Tropical,21.8,248,45,Alluvial,7.2
+Bihar,Purnia,Zaid,Tropical,31.8,165,40,Alluvial,7.2
+Bihar,Rohtas,Kharif,Tropical,24.8,1243,60,Alluvial,6.6
+Bihar,Rohtas,Rabi,Tropical,21.8,248,45,Alluvial,6.6
+Bihar,Rohtas,Zaid,Tropical,31.8,165,40,Alluvial,6.6
+Bihar,Saharsa,Kharif,Tropical,24.8,1243,60,Alluvial,6.7
+Bihar,Saharsa,Rabi,Tropical,21.8,248,45,Alluvial,6.7
+Bihar,Saharsa,Zaid,Tropical,31.8,165,40,Alluvial,6.7
+Bihar,Samastipur,Kharif,Tropical,24.8,1243,60,Alluvial,7.3
+Bihar,Samastipur,Rabi,Tropical,21.8,248,45,Alluvial,7.3
+Bihar,Samastipur,Zaid,Tropical,31.8,165,40,Alluvial,7.3
+Bihar,Saran,Kharif,Tropical,24.8,1243,60,Alluvial,7.3
+Bihar,Saran,Rabi,Tropical,21.8,248,45,Alluvial,7.3
+Bihar,Saran,Zaid,Tropical,31.8,165,40,Alluvial,7.3
+Bihar,Sheikhpura,Kharif,Tropical,24.8,1243,60,Alluvial,7.0
+Bihar,Sheikhpura,Rabi,Tropical,21.8,248,45,Alluvial,7.0
+Bihar,Sheikhpura,Zaid,Tropical,31.8,165,40,Alluvial,7.0
+Bihar,Sheohar,Kharif,Tropical,24.8,1243,60,Alluvial,6.8
+Bihar,Sheohar,Rabi,Tropical,21.8,248,45,Alluvial,6.8
+Bihar,Sheohar,Zaid,Tropical,31.8,165,40,Alluvial,6.8
+Bihar,Sitamarhi,Kharif,Tropical,24.8,1243,60,Alluvial,6.5
+Bihar,Sitamarhi,Rabi,Tropical,21.8,248,45,Alluvial,6.5
+Bihar,Sitamarhi,Zaid,Tropical,31.8,165,40,Alluvial,6.5
+Bihar,Siwan,Kharif,Tropical,24.8,1243,60,Alluvial,7.0
+Bihar,Siwan,Rabi,Tropical,21.8,248,45,Alluvial,7.0
+Bihar,Siwan,Zaid,Tropical,31.8,165,40,Alluvial,7.0
+Bihar,Supaul,Kharif,Tropical,24.8,1243,60,Alluvial,7.2
+Bihar,Supaul,Rabi,Tropical,21.8,248,45,Alluvial,7.2
+Bihar,Supaul,Zaid,Tropical,31.8,165,40,Alluvial,7.2
+Bihar,Vaishali,Kharif,Tropical,24.8,1243,60,Alluvial,7.4
+Bihar,Vaishali,Rabi,Tropical,21.8,248,45,Alluvial,7.4
+Bihar,Vaishali,Zaid,Tropical,31.8,165,40,Alluvial,7.4
+Bihar,West Champaran,Kharif,Tropical,24.8,1243,60,Alluvial,7.5
+Bihar,West Champaran,Rabi,Tropical,21.8,248,45,Alluvial,7.5
+Bihar,West Champaran,Zaid,Tropical,31.8,165,40,Alluvial,7.5
+Chhattisgarh,Balod,Kharif,Tropical,24.6,1855,65,Red Laterite,5.7
+Chhattisgarh,Balod,Rabi,Tropical,21.6,371,50,Red Laterite,5.7
+Chhattisgarh,Balod,Zaid,Tropical,31.6,247,45,Red Laterite,5.7
+Chhattisgarh,Baloda Bazar,Kharif,Tropical,24.6,1855,65,Red Laterite,5.9
+Chhattisgarh,Baloda Bazar,Rabi,Tropical,21.6,371,50,Red Laterite,5.9
+Chhattisgarh,Baloda Bazar,Zaid,Tropical,31.6,247,45,Red Laterite,5.9
+Chhattisgarh,Balrampur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Chhattisgarh,Balrampur,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Chhattisgarh,Balrampur,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Chhattisgarh,Bastar,Kharif,Tropical,24.6,1855,65,Red Laterite,5.1
+Chhattisgarh,Bastar,Rabi,Tropical,21.6,371,50,Red Laterite,5.1
+Chhattisgarh,Bastar,Zaid,Tropical,31.6,247,45,Red Laterite,5.1
+Chhattisgarh,Bemetara,Kharif,Tropical,24.6,1855,65,Red Laterite,5.8
+Chhattisgarh,Bemetara,Rabi,Tropical,21.6,371,50,Red Laterite,5.8
+Chhattisgarh,Bemetara,Zaid,Tropical,31.6,247,45,Red Laterite,5.8
+Chhattisgarh,Bijapur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Chhattisgarh,Bijapur,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Chhattisgarh,Bijapur,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Chhattisgarh,Bilaspur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Chhattisgarh,Bilaspur,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Chhattisgarh,Bilaspur,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Chhattisgarh,Dantewada,Kharif,Tropical,24.6,1855,65,Red Laterite,5.8
+Chhattisgarh,Dantewada,Rabi,Tropical,21.6,371,50,Red Laterite,5.8
+Chhattisgarh,Dantewada,Zaid,Tropical,31.6,247,45,Red Laterite,5.8
+Chhattisgarh,Dhamtari,Kharif,Tropical,24.6,1855,65,Red Laterite,5.5
+Chhattisgarh,Dhamtari,Rabi,Tropical,21.6,371,50,Red Laterite,5.5
+Chhattisgarh,Dhamtari,Zaid,Tropical,31.6,247,45,Red Laterite,5.5
+Chhattisgarh,Durg,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Chhattisgarh,Durg,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Chhattisgarh,Durg,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Chhattisgarh,Gariaband,Kharif,Tropical,24.6,1855,65,Red Laterite,6.1
+Chhattisgarh,Gariaband,Rabi,Tropical,21.6,371,50,Red Laterite,6.1
+Chhattisgarh,Gariaband,Zaid,Tropical,31.6,247,45,Red Laterite,6.1
+Chhattisgarh,Gaurela Pendra Marwahi,Kharif,Tropical,24.6,1855,65,Red Laterite,5.4
+Chhattisgarh,Gaurela Pendra Marwahi,Rabi,Tropical,21.6,371,50,Red Laterite,5.4
+Chhattisgarh,Gaurela Pendra Marwahi,Zaid,Tropical,31.6,247,45,Red Laterite,5.4
+Chhattisgarh,Janjgir Champa,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Chhattisgarh,Janjgir Champa,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Chhattisgarh,Janjgir Champa,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Chhattisgarh,Jashpur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.5
+Chhattisgarh,Jashpur,Rabi,Tropical,21.6,371,50,Red Laterite,5.5
+Chhattisgarh,Jashpur,Zaid,Tropical,31.6,247,45,Red Laterite,5.5
+Chhattisgarh,Kabirdham,Kharif,Tropical,24.6,1855,65,Red Laterite,6.2
+Chhattisgarh,Kabirdham,Rabi,Tropical,21.6,371,50,Red Laterite,6.2
+Chhattisgarh,Kabirdham,Zaid,Tropical,31.6,247,45,Red Laterite,6.2
+Chhattisgarh,Kanker,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Chhattisgarh,Kanker,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Chhattisgarh,Kanker,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Chhattisgarh,Kondagaon,Kharif,Tropical,24.6,1855,65,Red Laterite,5.1
+Chhattisgarh,Kondagaon,Rabi,Tropical,21.6,371,50,Red Laterite,5.1
+Chhattisgarh,Kondagaon,Zaid,Tropical,31.6,247,45,Red Laterite,5.1
+Chhattisgarh,Korba,Kharif,Tropical,24.6,1855,65,Red Laterite,5.9
+Chhattisgarh,Korba,Rabi,Tropical,21.6,371,50,Red Laterite,5.9
+Chhattisgarh,Korba,Zaid,Tropical,31.6,247,45,Red Laterite,5.9
+Chhattisgarh,Koriya,Kharif,Tropical,24.6,1855,65,Red Laterite,5.4
+Chhattisgarh,Koriya,Rabi,Tropical,21.6,371,50,Red Laterite,5.4
+Chhattisgarh,Koriya,Zaid,Tropical,31.6,247,45,Red Laterite,5.4
+Chhattisgarh,Mahasamund,Kharif,Tropical,24.6,1855,65,Red Laterite,6.3
+Chhattisgarh,Mahasamund,Rabi,Tropical,21.6,371,50,Red Laterite,6.3
+Chhattisgarh,Mahasamund,Zaid,Tropical,31.6,247,45,Red Laterite,6.3
+Chhattisgarh,Mungeli,Kharif,Tropical,24.6,1855,65,Red Laterite,6.1
+Chhattisgarh,Mungeli,Rabi,Tropical,21.6,371,50,Red Laterite,6.1
+Chhattisgarh,Mungeli,Zaid,Tropical,31.6,247,45,Red Laterite,6.1
+Chhattisgarh,Narayanpur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.4
+Chhattisgarh,Narayanpur,Rabi,Tropical,21.6,371,50,Red Laterite,5.4
+Chhattisgarh,Narayanpur,Zaid,Tropical,31.6,247,45,Red Laterite,5.4
+Chhattisgarh,Raigarh,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Chhattisgarh,Raigarh,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Chhattisgarh,Raigarh,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Chhattisgarh,Raipur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Chhattisgarh,Raipur,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Chhattisgarh,Raipur,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Chhattisgarh,Rajnandgaon,Kharif,Tropical,24.6,1855,65,Red Laterite,6.2
+Chhattisgarh,Rajnandgaon,Rabi,Tropical,21.6,371,50,Red Laterite,6.2
+Chhattisgarh,Rajnandgaon,Zaid,Tropical,31.6,247,45,Red Laterite,6.2
+Chhattisgarh,Sukma,Kharif,Tropical,24.6,1855,65,Red Laterite,6.3
+Chhattisgarh,Sukma,Rabi,Tropical,21.6,371,50,Red Laterite,6.3
+Chhattisgarh,Sukma,Zaid,Tropical,31.6,247,45,Red Laterite,6.3
+Chhattisgarh,Surajpur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.5
+Chhattisgarh,Surajpur,Rabi,Tropical,21.6,371,50,Red Laterite,5.5
+Chhattisgarh,Surajpur,Zaid,Tropical,31.6,247,45,Red Laterite,5.5
+Chhattisgarh,Surguja,Kharif,Tropical,24.6,1855,65,Red Laterite,5.9
+Chhattisgarh,Surguja,Rabi,Tropical,21.6,371,50,Red Laterite,5.9
+Chhattisgarh,Surguja,Zaid,Tropical,31.6,247,45,Red Laterite,5.9
+Goa,North Goa,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Goa,North Goa,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Goa,North Goa,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Goa,South Goa,Kharif,Coastal,24.6,1855,65,Alluvial,7.2
+Goa,South Goa,Rabi,Coastal,21.6,371,50,Alluvial,7.2
+Goa,South Goa,Zaid,Coastal,31.6,247,45,Alluvial,7.2
+Gujarat,Ahmedabad,Kharif,Coastal,25.1,1378,59,Alluvial,6.9
+Gujarat,Ahmedabad,Rabi,Coastal,22.1,275,44,Alluvial,6.9
+Gujarat,Ahmedabad,Zaid,Coastal,32.1,183,39,Alluvial,6.9
+Gujarat,Amreli,Kharif,Coastal,25.1,1378,59,Alluvial,6.9
+Gujarat,Amreli,Rabi,Coastal,22.1,275,44,Alluvial,6.9
+Gujarat,Amreli,Zaid,Coastal,32.1,183,39,Alluvial,6.9
+Gujarat,Anand,Kharif,Coastal,25.1,1378,59,Alluvial,7.2
+Gujarat,Anand,Rabi,Coastal,22.1,275,44,Alluvial,7.2
+Gujarat,Anand,Zaid,Coastal,32.1,183,39,Alluvial,7.2
+Gujarat,Aravalli,Kharif,Coastal,25.1,1378,59,Alluvial,7.1
+Gujarat,Aravalli,Rabi,Coastal,22.1,275,44,Alluvial,7.1
+Gujarat,Aravalli,Zaid,Coastal,32.1,183,39,Alluvial,7.1
+Gujarat,Banaskantha,Kharif,Coastal,25.1,1378,59,Alluvial,7.2
+Gujarat,Banaskantha,Rabi,Coastal,22.1,275,44,Alluvial,7.2
+Gujarat,Banaskantha,Zaid,Coastal,32.1,183,39,Alluvial,7.2
+Gujarat,Bharuch,Kharif,Coastal,25.1,1378,59,Alluvial,7.2
+Gujarat,Bharuch,Rabi,Coastal,22.1,275,44,Alluvial,7.2
+Gujarat,Bharuch,Zaid,Coastal,32.1,183,39,Alluvial,7.2
+Gujarat,Bhavnagar,Kharif,Coastal,25.1,1378,59,Alluvial,7.1
+Gujarat,Bhavnagar,Rabi,Coastal,22.1,275,44,Alluvial,7.1
+Gujarat,Bhavnagar,Zaid,Coastal,32.1,183,39,Alluvial,7.1
+Gujarat,Botad,Kharif,Coastal,25.1,1378,59,Alluvial,7.4
+Gujarat,Botad,Rabi,Coastal,22.1,275,44,Alluvial,7.4
+Gujarat,Botad,Zaid,Coastal,32.1,183,39,Alluvial,7.4
+Gujarat,Chhota Udaipur,Kharif,Coastal,25.1,1378,59,Alluvial,7.3
+Gujarat,Chhota Udaipur,Rabi,Coastal,22.1,275,44,Alluvial,7.3
+Gujarat,Chhota Udaipur,Zaid,Coastal,32.1,183,39,Alluvial,7.3
+Gujarat,Dahod,Kharif,Coastal,25.1,1378,59,Alluvial,6.9
+Gujarat,Dahod,Rabi,Coastal,22.1,275,44,Alluvial,6.9
+Gujarat,Dahod,Zaid,Coastal,32.1,183,39,Alluvial,6.9
+Gujarat,Dang,Kharif,Coastal,25.1,1378,59,Alluvial,6.5
+Gujarat,Dang,Rabi,Coastal,22.1,275,44,Alluvial,6.5
+Gujarat,Dang,Zaid,Coastal,32.1,183,39,Alluvial,6.5
+Gujarat,Devbhoomi Dwarka,Kharif,Coastal,25.1,1378,59,Alluvial,6.8
+Gujarat,Devbhoomi Dwarka,Rabi,Coastal,22.1,275,44,Alluvial,6.8
+Gujarat,Devbhoomi Dwarka,Zaid,Coastal,32.1,183,39,Alluvial,6.8
+Gujarat,Gandhinagar,Kharif,Coastal,25.1,1378,59,Alluvial,6.7
+Gujarat,Gandhinagar,Rabi,Coastal,22.1,275,44,Alluvial,6.7
+Gujarat,Gandhinagar,Zaid,Coastal,32.1,183,39,Alluvial,6.7
+Gujarat,Gir Somnath,Kharif,Coastal,25.1,1378,59,Alluvial,7.1
+Gujarat,Gir Somnath,Rabi,Coastal,22.1,275,44,Alluvial,7.1
+Gujarat,Gir Somnath,Zaid,Coastal,32.1,183,39,Alluvial,7.1
+Gujarat,Jamnagar,Kharif,Coastal,25.1,1378,59,Alluvial,7.2
+Gujarat,Jamnagar,Rabi,Coastal,22.1,275,44,Alluvial,7.2
+Gujarat,Jamnagar,Zaid,Coastal,32.1,183,39,Alluvial,7.2
+Gujarat,Junagadh,Kharif,Coastal,25.1,1378,59,Alluvial,6.9
+Gujarat,Junagadh,Rabi,Coastal,22.1,275,44,Alluvial,6.9
+Gujarat,Junagadh,Zaid,Coastal,32.1,183,39,Alluvial,6.9
+Gujarat,Kheda,Kharif,Coastal,25.1,1378,59,Alluvial,7.4
+Gujarat,Kheda,Rabi,Coastal,22.1,275,44,Alluvial,7.4
+Gujarat,Kheda,Zaid,Coastal,32.1,183,39,Alluvial,7.4
+Gujarat,Kutch,Kharif,Arid,24.9,889,60,Sandy,7.8
+Gujarat,Kutch,Rabi,Arid,21.9,222,45,Sandy,7.8
+Gujarat,Kutch,Zaid,Arid,31.9,148,40,Sandy,7.8
+Gujarat,Mahisagar,Kharif,Coastal,25.1,1378,59,Alluvial,7.2
+Gujarat,Mahisagar,Rabi,Coastal,22.1,275,44,Alluvial,7.2
+Gujarat,Mahisagar,Zaid,Coastal,32.1,183,39,Alluvial,7.2
+Gujarat,Mehsana,Kharif,Coastal,25.1,1378,59,Alluvial,6.7
+Gujarat,Mehsana,Rabi,Coastal,22.1,275,44,Alluvial,6.7
+Gujarat,Mehsana,Zaid,Coastal,32.1,183,39,Alluvial,6.7
+Gujarat,Morbi,Kharif,Coastal,25.1,1378,59,Alluvial,7.0
+Gujarat,Morbi,Rabi,Coastal,22.1,275,44,Alluvial,7.0
+Gujarat,Morbi,Zaid,Coastal,32.1,183,39,Alluvial,7.0
+Gujarat,Narmada,Kharif,Coastal,25.1,1378,59,Alluvial,7.1
+Gujarat,Narmada,Rabi,Coastal,22.1,275,44,Alluvial,7.1
+Gujarat,Narmada,Zaid,Coastal,32.1,183,39,Alluvial,7.1
+Gujarat,Navsari,Kharif,Coastal,25.1,1378,59,Alluvial,6.7
+Gujarat,Navsari,Rabi,Coastal,22.1,275,44,Alluvial,6.7
+Gujarat,Navsari,Zaid,Coastal,32.1,183,39,Alluvial,6.7
+Gujarat,Panchmahal,Kharif,Coastal,25.1,1378,59,Alluvial,6.7
+Gujarat,Panchmahal,Rabi,Coastal,22.1,275,44,Alluvial,6.7
+Gujarat,Panchmahal,Zaid,Coastal,32.1,183,39,Alluvial,6.7
+Gujarat,Patan,Kharif,Coastal,25.1,1378,59,Alluvial,7.3
+Gujarat,Patan,Rabi,Coastal,22.1,275,44,Alluvial,7.3
+Gujarat,Patan,Zaid,Coastal,32.1,183,39,Alluvial,7.3
+Gujarat,Porbandar,Kharif,Coastal,25.1,1378,59,Alluvial,7.3
+Gujarat,Porbandar,Rabi,Coastal,22.1,275,44,Alluvial,7.3
+Gujarat,Porbandar,Zaid,Coastal,32.1,183,39,Alluvial,7.3
+Gujarat,Rajkot,Kharif,Coastal,24.7,1186,63,Alluvial,7.1
+Gujarat,Rajkot,Rabi,Coastal,21.7,237,48,Alluvial,7.1
+Gujarat,Rajkot,Zaid,Coastal,31.7,158,43,Alluvial,7.1
+Gujarat,Sabarkantha,Kharif,Coastal,25.1,1378,59,Alluvial,6.8
+Gujarat,Sabarkantha,Rabi,Coastal,22.1,275,44,Alluvial,6.8
+Gujarat,Sabarkantha,Zaid,Coastal,32.1,183,39,Alluvial,6.8
+Gujarat,Surat,Kharif,Coastal,25.5,2046,65,Alluvial,6.7
+Gujarat,Surat,Rabi,Coastal,22.5,409,50,Alluvial,6.7
+Gujarat,Surat,Zaid,Coastal,32.5,272,45,Alluvial,6.7
+Gujarat,Surendranagar,Kharif,Coastal,25.1,1378,59,Alluvial,7.3
+Gujarat,Surendranagar,Rabi,Coastal,22.1,275,44,Alluvial,7.3
+Gujarat,Surendranagar,Zaid,Coastal,32.1,183,39,Alluvial,7.3
+Gujarat,Tapi,Kharif,Coastal,25.1,1378,59,Alluvial,6.9
+Gujarat,Tapi,Rabi,Coastal,22.1,275,44,Alluvial,6.9
+Gujarat,Tapi,Zaid,Coastal,32.1,183,39,Alluvial,6.9
+Gujarat,Vadodara,Kharif,Coastal,25.2,1432,61,Alluvial,6.9
+Gujarat,Vadodara,Rabi,Coastal,22.2,286,46,Alluvial,6.9
+Gujarat,Vadodara,Zaid,Coastal,32.2,191,41,Alluvial,6.9
+Gujarat,Valsad,Kharif,Coastal,25.1,1378,59,Alluvial,7.3
+Gujarat,Valsad,Rabi,Coastal,22.1,275,44,Alluvial,7.3
+Gujarat,Valsad,Zaid,Coastal,32.1,183,39,Alluvial,7.3
+Haryana,Ambala,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.0
+Haryana,Ambala,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.0
+Haryana,Ambala,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.0
+Haryana,Bhiwani,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.9
+Haryana,Bhiwani,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.9
+Haryana,Bhiwani,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.9
+Haryana,Charkhi Dadri,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.7
+Haryana,Charkhi Dadri,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.7
+Haryana,Charkhi Dadri,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.7
+Haryana,Faridabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Haryana,Faridabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Haryana,Faridabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Haryana,Fatehabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Haryana,Fatehabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Haryana,Fatehabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Haryana,Gurugram,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.8
+Haryana,Gurugram,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.8
+Haryana,Gurugram,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.8
+Haryana,Hisar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Haryana,Hisar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Haryana,Hisar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Haryana,Jhajjar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.0
+Haryana,Jhajjar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.0
+Haryana,Jhajjar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.0
+Haryana,Jind,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.7
+Haryana,Jind,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.7
+Haryana,Jind,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.7
+Haryana,Kaithal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.1
+Haryana,Kaithal,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.1
+Haryana,Kaithal,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.1
+Haryana,Karnal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Haryana,Karnal,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Haryana,Karnal,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Haryana,Kurukshetra,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Haryana,Kurukshetra,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Haryana,Kurukshetra,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Haryana,Mahendragarh,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Haryana,Mahendragarh,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Haryana,Mahendragarh,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Haryana,Nuh,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Haryana,Nuh,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Haryana,Nuh,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Haryana,Palwal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Haryana,Palwal,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Haryana,Palwal,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Haryana,Panchkula,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Haryana,Panchkula,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Haryana,Panchkula,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Haryana,Panipat,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.7
+Haryana,Panipat,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.7
+Haryana,Panipat,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.7
+Haryana,Rewari,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.7
+Haryana,Rewari,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.7
+Haryana,Rewari,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.7
+Haryana,Rohtak,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Haryana,Rohtak,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Haryana,Rohtak,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Haryana,Sirsa,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Haryana,Sirsa,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Haryana,Sirsa,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Haryana,Sonipat,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.1
+Haryana,Sonipat,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.1
+Haryana,Sonipat,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.1
+Haryana,Yamunanagar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.4
+Haryana,Yamunanagar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.4
+Haryana,Yamunanagar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.4
+Himachal Pradesh,Bilaspur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Himachal Pradesh,Bilaspur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Himachal Pradesh,Bilaspur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Himachal Pradesh,Chamba,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Himachal Pradesh,Chamba,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Himachal Pradesh,Chamba,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+Himachal Pradesh,Hamirpur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Himachal Pradesh,Hamirpur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Himachal Pradesh,Hamirpur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Himachal Pradesh,Kangra,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Himachal Pradesh,Kangra,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Himachal Pradesh,Kangra,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Himachal Pradesh,Kinnaur,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Himachal Pradesh,Kinnaur,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Himachal Pradesh,Kinnaur,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Himachal Pradesh,Kullu,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Himachal Pradesh,Kullu,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Himachal Pradesh,Kullu,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Himachal Pradesh,Lahaul and Spiti,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Himachal Pradesh,Lahaul and Spiti,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Himachal Pradesh,Lahaul and Spiti,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Himachal Pradesh,Mandi,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Himachal Pradesh,Mandi,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Himachal Pradesh,Mandi,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Himachal Pradesh,Shimla,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Himachal Pradesh,Shimla,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Himachal Pradesh,Shimla,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Himachal Pradesh,Sirmaur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Himachal Pradesh,Sirmaur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Himachal Pradesh,Sirmaur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Himachal Pradesh,Solan,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Himachal Pradesh,Solan,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Himachal Pradesh,Solan,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Himachal Pradesh,Una,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Himachal Pradesh,Una,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Himachal Pradesh,Una,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Jharkhand,Bokaro,Kharif,Tropical,24.6,1855,65,Red Laterite,5.7
+Jharkhand,Bokaro,Rabi,Tropical,21.6,371,50,Red Laterite,5.7
+Jharkhand,Bokaro,Zaid,Tropical,31.6,247,45,Red Laterite,5.7
+Jharkhand,Chatra,Kharif,Tropical,24.6,1855,65,Red Laterite,5.1
+Jharkhand,Chatra,Rabi,Tropical,21.6,371,50,Red Laterite,5.1
+Jharkhand,Chatra,Zaid,Tropical,31.6,247,45,Red Laterite,5.1
+Jharkhand,Deoghar,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Jharkhand,Deoghar,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Jharkhand,Deoghar,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Jharkhand,Dhanbad,Kharif,Tropical,24.6,1855,65,Red Laterite,6.3
+Jharkhand,Dhanbad,Rabi,Tropical,21.6,371,50,Red Laterite,6.3
+Jharkhand,Dhanbad,Zaid,Tropical,31.6,247,45,Red Laterite,6.3
+Jharkhand,Dumka,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Jharkhand,Dumka,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Jharkhand,Dumka,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Jharkhand,East Singhbhum,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Jharkhand,East Singhbhum,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Jharkhand,East Singhbhum,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Jharkhand,Garhwa,Kharif,Tropical,24.6,1855,65,Red Laterite,6.3
+Jharkhand,Garhwa,Rabi,Tropical,21.6,371,50,Red Laterite,6.3
+Jharkhand,Garhwa,Zaid,Tropical,31.6,247,45,Red Laterite,6.3
+Jharkhand,Giridih,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Jharkhand,Giridih,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Jharkhand,Giridih,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Jharkhand,Godda,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Jharkhand,Godda,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Jharkhand,Godda,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Jharkhand,Gumla,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Jharkhand,Gumla,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Jharkhand,Gumla,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Jharkhand,Hazaribagh,Kharif,Tropical,24.6,1855,65,Red Laterite,6.1
+Jharkhand,Hazaribagh,Rabi,Tropical,21.6,371,50,Red Laterite,6.1
+Jharkhand,Hazaribagh,Zaid,Tropical,31.6,247,45,Red Laterite,6.1
+Jharkhand,Jamtara,Kharif,Tropical,24.6,1855,65,Red Laterite,5.9
+Jharkhand,Jamtara,Rabi,Tropical,21.6,371,50,Red Laterite,5.9
+Jharkhand,Jamtara,Zaid,Tropical,31.6,247,45,Red Laterite,5.9
+Jharkhand,Khunti,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Jharkhand,Khunti,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Jharkhand,Khunti,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Jharkhand,Koderma,Kharif,Tropical,24.6,1855,65,Red Laterite,5.5
+Jharkhand,Koderma,Rabi,Tropical,21.6,371,50,Red Laterite,5.5
+Jharkhand,Koderma,Zaid,Tropical,31.6,247,45,Red Laterite,5.5
+Jharkhand,Latehar,Kharif,Tropical,24.6,1855,65,Red Laterite,5.2
+Jharkhand,Latehar,Rabi,Tropical,21.6,371,50,Red Laterite,5.2
+Jharkhand,Latehar,Zaid,Tropical,31.6,247,45,Red Laterite,5.2
+Jharkhand,Lohardaga,Kharif,Tropical,24.6,1855,65,Red Laterite,6.4
+Jharkhand,Lohardaga,Rabi,Tropical,21.6,371,50,Red Laterite,6.4
+Jharkhand,Lohardaga,Zaid,Tropical,31.6,247,45,Red Laterite,6.4
+Jharkhand,Pakur,Kharif,Tropical,24.6,1855,65,Red Laterite,5.7
+Jharkhand,Pakur,Rabi,Tropical,21.6,371,50,Red Laterite,5.7
+Jharkhand,Pakur,Zaid,Tropical,31.6,247,45,Red Laterite,5.7
+Jharkhand,Palamu,Kharif,Tropical,24.6,1855,65,Red Laterite,6.0
+Jharkhand,Palamu,Rabi,Tropical,21.6,371,50,Red Laterite,6.0
+Jharkhand,Palamu,Zaid,Tropical,31.6,247,45,Red Laterite,6.0
+Jharkhand,Ramgarh,Kharif,Tropical,24.6,1855,65,Red Laterite,5.8
+Jharkhand,Ramgarh,Rabi,Tropical,21.6,371,50,Red Laterite,5.8
+Jharkhand,Ramgarh,Zaid,Tropical,31.6,247,45,Red Laterite,5.8
+Jharkhand,Ranchi,Kharif,Tropical,24.6,1855,65,Red Laterite,5.4
+Jharkhand,Ranchi,Rabi,Tropical,21.6,371,50,Red Laterite,5.4
+Jharkhand,Ranchi,Zaid,Tropical,31.6,247,45,Red Laterite,5.4
+Jharkhand,Sahibganj,Kharif,Tropical,24.6,1855,65,Red Laterite,6.2
+Jharkhand,Sahibganj,Rabi,Tropical,21.6,371,50,Red Laterite,6.2
+Jharkhand,Sahibganj,Zaid,Tropical,31.6,247,45,Red Laterite,6.2
+Jharkhand,Seraikela Kharsawan,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Jharkhand,Seraikela Kharsawan,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Jharkhand,Seraikela Kharsawan,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Jharkhand,Simdega,Kharif,Tropical,24.6,1855,65,Red Laterite,5.8
+Jharkhand,Simdega,Rabi,Tropical,21.6,371,50,Red Laterite,5.8
+Jharkhand,Simdega,Zaid,Tropical,31.6,247,45,Red Laterite,5.8
+Jharkhand,West Singhbhum,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Jharkhand,West Singhbhum,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Jharkhand,West Singhbhum,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Karnataka,Bagalkot,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.4
+Karnataka,Bagalkot,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.4
+Karnataka,Bagalkot,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.4
+Karnataka,Ballari,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.2
+Karnataka,Ballari,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.2
+Karnataka,Ballari,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.2
+Karnataka,Belagavi,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.6
+Karnataka,Belagavi,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.6
+Karnataka,Belagavi,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.6
+Karnataka,Bengaluru Rural,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.0
+Karnataka,Bengaluru Rural,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.0
+Karnataka,Bengaluru Rural,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.0
+Karnataka,Bengaluru Urban,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.9
+Karnataka,Bengaluru Urban,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.9
+Karnataka,Bengaluru Urban,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.9
+Karnataka,Bidar,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.3
+Karnataka,Bidar,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.3
+Karnataka,Bidar,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.3
+Karnataka,Chamarajanagar,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.5
+Karnataka,Chamarajanagar,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.5
+Karnataka,Chamarajanagar,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.5
+Karnataka,Chikballapur,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.5
+Karnataka,Chikballapur,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.5
+Karnataka,Chikballapur,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.5
+Karnataka,Chikkamagaluru,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.1
+Karnataka,Chikkamagaluru,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.1
+Karnataka,Chikkamagaluru,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.1
+Karnataka,Chitradurga,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.9
+Karnataka,Chitradurga,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.9
+Karnataka,Chitradurga,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.9
+Karnataka,Dakshina Kannada,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.2
+Karnataka,Dakshina Kannada,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.2
+Karnataka,Dakshina Kannada,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.2
+Karnataka,Davanagere,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.4
+Karnataka,Davanagere,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.4
+Karnataka,Davanagere,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.4
+Karnataka,Dharwad,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.8
+Karnataka,Dharwad,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.8
+Karnataka,Dharwad,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.8
+Karnataka,Gadag,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.5
+Karnataka,Gadag,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.5
+Karnataka,Gadag,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.5
+Karnataka,Hassan,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.7
+Karnataka,Hassan,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.7
+Karnataka,Hassan,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.7
+Karnataka,Haveri,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.2
+Karnataka,Haveri,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.2
+Karnataka,Haveri,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.2
+Karnataka,Kalaburagi,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.6
+Karnataka,Kalaburagi,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.6
+Karnataka,Kalaburagi,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.6
+Karnataka,Kodagu,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.8
+Karnataka,Kodagu,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.8
+Karnataka,Kodagu,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.8
+Karnataka,Kolar,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.5
+Karnataka,Kolar,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.5
+Karnataka,Kolar,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.5
+Karnataka,Koppal,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.5
+Karnataka,Koppal,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.5
+Karnataka,Koppal,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.5
+Karnataka,Mandya,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.4
+Karnataka,Mandya,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.4
+Karnataka,Mandya,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.4
+Karnataka,Mysuru,Kharif,Semi-arid,23.0,829,71,Red Sandy,6.1
+Karnataka,Mysuru,Rabi,Semi-arid,20.0,207,56,Red Sandy,6.1
+Karnataka,Mysuru,Zaid,Semi-arid,30.0,138,51,Red Sandy,6.1
+Karnataka,Raichur,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.8
+Karnataka,Raichur,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.8
+Karnataka,Raichur,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.8
+Karnataka,Ramanagara,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.6
+Karnataka,Ramanagara,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.6
+Karnataka,Ramanagara,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.6
+Karnataka,Shivamogga,Kharif,Semi-arid,22.0,904,73,Red Sandy,5.8
+Karnataka,Shivamogga,Rabi,Semi-arid,19.0,226,58,Red Sandy,5.8
+Karnataka,Shivamogga,Zaid,Semi-arid,29.0,150,53,Red Sandy,5.8
+Karnataka,Tumakuru,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.2
+Karnataka,Tumakuru,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.2
+Karnataka,Tumakuru,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.2
+Karnataka,Udupi,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.3
+Karnataka,Udupi,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.3
+Karnataka,Udupi,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.3
+Karnataka,Uttara Kannada,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.7
+Karnataka,Uttara Kannada,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.7
+Karnataka,Uttara Kannada,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.7
+Karnataka,Vijayapura,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.3
+Karnataka,Vijayapura,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.3
+Karnataka,Vijayapura,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.3
+Karnataka,Yadgir,Kharif,Semi-arid,22.0,904,73,Red Sandy,6.5
+Karnataka,Yadgir,Rabi,Semi-arid,19.0,226,58,Red Sandy,6.5
+Karnataka,Yadgir,Zaid,Semi-arid,29.0,150,53,Red Sandy,6.5
+Kerala,Alappuzha,Kharif,Coastal,25.6,2758,83,Alluvial,7.5
+Kerala,Alappuzha,Rabi,Coastal,22.6,551,68,Alluvial,7.5
+Kerala,Alappuzha,Zaid,Coastal,32.6,367,63,Alluvial,7.5
+Kerala,Ernakulam,Kharif,Coastal,25.6,2758,83,Alluvial,7.4
+Kerala,Ernakulam,Rabi,Coastal,22.6,551,68,Alluvial,7.4
+Kerala,Ernakulam,Zaid,Coastal,32.6,367,63,Alluvial,7.4
+Kerala,Idukki,Kharif,Coastal,25.6,2758,83,Alluvial,7.3
+Kerala,Idukki,Rabi,Coastal,22.6,551,68,Alluvial,7.3
+Kerala,Idukki,Zaid,Coastal,32.6,367,63,Alluvial,7.3
+Kerala,Kannur,Kharif,Coastal,25.6,2758,83,Alluvial,6.8
+Kerala,Kannur,Rabi,Coastal,22.6,551,68,Alluvial,6.8
+Kerala,Kannur,Zaid,Coastal,32.6,367,63,Alluvial,6.8
+Kerala,Kasaragod,Kharif,Coastal,25.6,2758,83,Alluvial,6.7
+Kerala,Kasaragod,Rabi,Coastal,22.6,551,68,Alluvial,6.7
+Kerala,Kasaragod,Zaid,Coastal,32.6,367,63,Alluvial,6.7
+Kerala,Kollam,Kharif,Coastal,24.3,2937,85,Alluvial,6.5
+Kerala,Kollam,Rabi,Coastal,21.3,587,70,Alluvial,6.5
+Kerala,Kollam,Zaid,Coastal,31.3,391,65,Alluvial,6.5
+Kerala,Kottayam,Kharif,Coastal,25.6,2758,83,Alluvial,6.6
+Kerala,Kottayam,Rabi,Coastal,22.6,551,68,Alluvial,6.6
+Kerala,Kottayam,Zaid,Coastal,32.6,367,63,Alluvial,6.6
+Kerala,Kozhikode,Kharif,Coastal,25.2,2878,81,Alluvial,7.0
+Kerala,Kozhikode,Rabi,Coastal,22.2,575,66,Alluvial,7.0
+Kerala,Kozhikode,Zaid,Coastal,32.2,383,61,Alluvial,7.0
+Kerala,Malappuram,Kharif,Coastal,25.6,2758,83,Alluvial,7.1
+Kerala,Malappuram,Rabi,Coastal,22.6,551,68,Alluvial,7.1
+Kerala,Malappuram,Zaid,Coastal,32.6,367,63,Alluvial,7.1
+Kerala,Palakkad,Kharif,Coastal,25.6,2758,83,Alluvial,7.4
+Kerala,Palakkad,Rabi,Coastal,22.6,551,68,Alluvial,7.4
+Kerala,Palakkad,Zaid,Coastal,32.6,367,63,Alluvial,7.4
+Kerala,Pathanamthitta,Kharif,Coastal,25.6,2758,83,Alluvial,6.7
+Kerala,Pathanamthitta,Rabi,Coastal,22.6,551,68,Alluvial,6.7
+Kerala,Pathanamthitta,Zaid,Coastal,32.6,367,63,Alluvial,6.7
+Kerala,Thiruvananthapuram,Kharif,Coastal,25.6,2758,83,Alluvial,7.1
+Kerala,Thiruvananthapuram,Rabi,Coastal,22.6,551,68,Alluvial,7.1
+Kerala,Thiruvananthapuram,Zaid,Coastal,32.6,367,63,Alluvial,7.1
+Kerala,Thrissur,Kharif,Coastal,25.4,2937,82,Alluvial,6.6
+Kerala,Thrissur,Rabi,Coastal,22.4,587,67,Alluvial,6.6
+Kerala,Thrissur,Zaid,Coastal,32.4,391,62,Alluvial,6.6
+Kerala,Wayanad,Kharif,Coastal,25.6,2758,83,Alluvial,6.7
+Kerala,Wayanad,Rabi,Coastal,22.6,551,68,Alluvial,6.7
+Kerala,Wayanad,Zaid,Coastal,32.6,367,63,Alluvial,6.7
+Madhya Pradesh,Agar Malwa,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.2
+Madhya Pradesh,Agar Malwa,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.2
+Madhya Pradesh,Agar Malwa,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.2
+Madhya Pradesh,Alirajpur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.1
+Madhya Pradesh,Alirajpur,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.1
+Madhya Pradesh,Alirajpur,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.1
+Madhya Pradesh,Anuppur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Anuppur,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Anuppur,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Ashoknagar,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.1
+Madhya Pradesh,Ashoknagar,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.1
+Madhya Pradesh,Ashoknagar,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.1
+Madhya Pradesh,Balaghat,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.6
+Madhya Pradesh,Balaghat,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.6
+Madhya Pradesh,Balaghat,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.6
+Madhya Pradesh,Barwani,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.5
+Madhya Pradesh,Barwani,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.5
+Madhya Pradesh,Barwani,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.5
+Madhya Pradesh,Betul,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Betul,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Betul,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Bhind,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.0
+Madhya Pradesh,Bhind,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.0
+Madhya Pradesh,Bhind,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.0
+Madhya Pradesh,Bhopal,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Bhopal,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Bhopal,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Madhya Pradesh,Burhanpur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.7
+Madhya Pradesh,Burhanpur,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.7
+Madhya Pradesh,Burhanpur,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.7
+Madhya Pradesh,Chhatarpur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.9
+Madhya Pradesh,Chhatarpur,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.9
+Madhya Pradesh,Chhatarpur,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.9
+Madhya Pradesh,Chhindwara,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.4
+Madhya Pradesh,Chhindwara,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.4
+Madhya Pradesh,Chhindwara,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.4
+Madhya Pradesh,Damoh,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.7
+Madhya Pradesh,Damoh,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.7
+Madhya Pradesh,Damoh,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.7
+Madhya Pradesh,Datia,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.2
+Madhya Pradesh,Datia,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.2
+Madhya Pradesh,Datia,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.2
+Madhya Pradesh,Dewas,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.5
+Madhya Pradesh,Dewas,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.5
+Madhya Pradesh,Dewas,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.5
+Madhya Pradesh,Dhar,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Dhar,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Dhar,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Dindori,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.5
+Madhya Pradesh,Dindori,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.5
+Madhya Pradesh,Dindori,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.5
+Madhya Pradesh,Guna,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.2
+Madhya Pradesh,Guna,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.2
+Madhya Pradesh,Guna,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.2
+Madhya Pradesh,Gwalior,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.3
+Madhya Pradesh,Gwalior,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.3
+Madhya Pradesh,Gwalior,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.3
+Madhya Pradesh,Harda,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.2
+Madhya Pradesh,Harda,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.2
+Madhya Pradesh,Harda,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.2
+Madhya Pradesh,Hoshangabad,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.0
+Madhya Pradesh,Hoshangabad,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.0
+Madhya Pradesh,Hoshangabad,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.0
+Madhya Pradesh,Indore,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Indore,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Indore,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Jabalpur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.3
+Madhya Pradesh,Jabalpur,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.3
+Madhya Pradesh,Jabalpur,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.3
+Madhya Pradesh,Jhabua,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.1
+Madhya Pradesh,Jhabua,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.1
+Madhya Pradesh,Jhabua,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.1
+Madhya Pradesh,Katni,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.4
+Madhya Pradesh,Katni,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.4
+Madhya Pradesh,Katni,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.4
+Madhya Pradesh,Khandwa,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.4
+Madhya Pradesh,Khandwa,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.4
+Madhya Pradesh,Khandwa,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.4
+Madhya Pradesh,Khargone,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.9
+Madhya Pradesh,Khargone,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.9
+Madhya Pradesh,Khargone,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.9
+Madhya Pradesh,Mandla,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Mandla,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Mandla,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Mandsaur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.1
+Madhya Pradesh,Mandsaur,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.1
+Madhya Pradesh,Mandsaur,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.1
+Madhya Pradesh,Morena,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.4
+Madhya Pradesh,Morena,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.4
+Madhya Pradesh,Morena,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.4
+Madhya Pradesh,Narsinghpur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Narsinghpur,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Narsinghpur,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Madhya Pradesh,Neemuch,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.1
+Madhya Pradesh,Neemuch,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.1
+Madhya Pradesh,Neemuch,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.1
+Madhya Pradesh,Niwari,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.6
+Madhya Pradesh,Niwari,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.6
+Madhya Pradesh,Niwari,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.6
+Madhya Pradesh,Panna,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Panna,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Panna,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Madhya Pradesh,Raisen,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.5
+Madhya Pradesh,Raisen,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.5
+Madhya Pradesh,Raisen,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.5
+Madhya Pradesh,Rajgarh,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.1
+Madhya Pradesh,Rajgarh,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.1
+Madhya Pradesh,Rajgarh,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.1
+Madhya Pradesh,Ratlam,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Ratlam,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Ratlam,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Rewa,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.9
+Madhya Pradesh,Rewa,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.9
+Madhya Pradesh,Rewa,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.9
+Madhya Pradesh,Sagar,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.2
+Madhya Pradesh,Sagar,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.2
+Madhya Pradesh,Sagar,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.2
+Madhya Pradesh,Satna,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.4
+Madhya Pradesh,Satna,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.4
+Madhya Pradesh,Satna,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.4
+Madhya Pradesh,Sehore,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.4
+Madhya Pradesh,Sehore,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.4
+Madhya Pradesh,Sehore,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.4
+Madhya Pradesh,Seoni,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.1
+Madhya Pradesh,Seoni,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.1
+Madhya Pradesh,Seoni,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.1
+Madhya Pradesh,Shahdol,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Shahdol,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Shahdol,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Madhya Pradesh,Shajapur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.0
+Madhya Pradesh,Shajapur,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.0
+Madhya Pradesh,Shajapur,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.0
+Madhya Pradesh,Sheopur,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.3
+Madhya Pradesh,Sheopur,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.3
+Madhya Pradesh,Sheopur,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.3
+Madhya Pradesh,Shivpuri,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.1
+Madhya Pradesh,Shivpuri,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.1
+Madhya Pradesh,Shivpuri,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.1
+Madhya Pradesh,Sidhi,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.1
+Madhya Pradesh,Sidhi,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.1
+Madhya Pradesh,Sidhi,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.1
+Madhya Pradesh,Singrauli,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Singrauli,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Singrauli,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Madhya Pradesh,Tikamgarh,Kharif,Semi-arid,24.6,1484,65,Black Cotton,8.0
+Madhya Pradesh,Tikamgarh,Rabi,Semi-arid,21.6,371,50,Black Cotton,8.0
+Madhya Pradesh,Tikamgarh,Zaid,Semi-arid,31.6,247,45,Black Cotton,8.0
+Madhya Pradesh,Ujjain,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.6
+Madhya Pradesh,Ujjain,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.6
+Madhya Pradesh,Ujjain,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.6
+Madhya Pradesh,Umaria,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.3
+Madhya Pradesh,Umaria,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.3
+Madhya Pradesh,Umaria,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.3
+Madhya Pradesh,Vidisha,Kharif,Semi-arid,24.6,1484,65,Black Cotton,7.8
+Madhya Pradesh,Vidisha,Rabi,Semi-arid,21.6,371,50,Black Cotton,7.8
+Madhya Pradesh,Vidisha,Zaid,Semi-arid,31.6,247,45,Black Cotton,7.8
+Maharashtra,Ahmednagar,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.4
+Maharashtra,Ahmednagar,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.4
+Maharashtra,Ahmednagar,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.4
+Maharashtra,Akola,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.5
+Maharashtra,Akola,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.5
+Maharashtra,Akola,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.5
+Maharashtra,Amravati,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.4
+Maharashtra,Amravati,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.4
+Maharashtra,Amravati,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.4
+Maharashtra,Aurangabad,Kharif,Semi-arid,23.4,938,62,Black Cotton,7.2
+Maharashtra,Aurangabad,Rabi,Semi-arid,20.4,234,47,Black Cotton,7.2
+Maharashtra,Aurangabad,Zaid,Semi-arid,30.4,156,42,Black Cotton,7.2
+Maharashtra,Beed,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.4
+Maharashtra,Beed,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.4
+Maharashtra,Beed,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.4
+Maharashtra,Bhandara,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.0
+Maharashtra,Bhandara,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.0
+Maharashtra,Bhandara,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.0
+Maharashtra,Buldhana,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.1
+Maharashtra,Buldhana,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.1
+Maharashtra,Buldhana,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.1
+Maharashtra,Chandrapur,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.2
+Maharashtra,Chandrapur,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.2
+Maharashtra,Chandrapur,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.2
+Maharashtra,Dhule,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.2
+Maharashtra,Dhule,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.2
+Maharashtra,Dhule,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.2
+Maharashtra,Gadchiroli,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.9
+Maharashtra,Gadchiroli,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.9
+Maharashtra,Gadchiroli,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.9
+Maharashtra,Gondia,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.0
+Maharashtra,Gondia,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.0
+Maharashtra,Gondia,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.0
+Maharashtra,Hingoli,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.7
+Maharashtra,Hingoli,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.7
+Maharashtra,Hingoli,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.7
+Maharashtra,Jalgaon,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.7
+Maharashtra,Jalgaon,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.7
+Maharashtra,Jalgaon,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.7
+Maharashtra,Jalna,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.6
+Maharashtra,Jalna,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.6
+Maharashtra,Jalna,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.6
+Maharashtra,Kolhapur,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.3
+Maharashtra,Kolhapur,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.3
+Maharashtra,Kolhapur,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.3
+Maharashtra,Latur,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.1
+Maharashtra,Latur,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.1
+Maharashtra,Latur,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.1
+Maharashtra,Mumbai City,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.0
+Maharashtra,Mumbai City,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.0
+Maharashtra,Mumbai City,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.0
+Maharashtra,Mumbai Suburban,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.0
+Maharashtra,Mumbai Suburban,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.0
+Maharashtra,Mumbai Suburban,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.0
+Maharashtra,Nagpur,Kharif,Coastal,24.5,2100,65,Alluvial,7.2
+Maharashtra,Nagpur,Rabi,Coastal,21.5,420,50,Alluvial,7.2
+Maharashtra,Nagpur,Zaid,Coastal,31.5,280,45,Alluvial,7.2
+Maharashtra,Nanded,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.0
+Maharashtra,Nanded,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.0
+Maharashtra,Nanded,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.0
+Maharashtra,Nandurbar,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.3
+Maharashtra,Nandurbar,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.3
+Maharashtra,Nandurbar,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.3
+Maharashtra,Nashik,Kharif,Semi-arid,22.4,1795,68,Black Cotton,8.1
+Maharashtra,Nashik,Rabi,Semi-arid,19.4,448,53,Black Cotton,8.1
+Maharashtra,Nashik,Zaid,Semi-arid,29.4,299,48,Black Cotton,8.1
+Maharashtra,Osmanabad,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.1
+Maharashtra,Osmanabad,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.1
+Maharashtra,Osmanabad,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.1
+Maharashtra,Palghar,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.5
+Maharashtra,Palghar,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.5
+Maharashtra,Palghar,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.5
+Maharashtra,Parbhani,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.2
+Maharashtra,Parbhani,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.2
+Maharashtra,Parbhani,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.2
+Maharashtra,Pune,Kharif,Semi-arid,21.8,2329,74,Black Cotton,7.3
+Maharashtra,Pune,Rabi,Semi-arid,18.8,582,59,Black Cotton,7.3
+Maharashtra,Pune,Zaid,Semi-arid,28.8,388,54,Black Cotton,7.3
+Maharashtra,Raigad,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.2
+Maharashtra,Raigad,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.2
+Maharashtra,Raigad,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.2
+Maharashtra,Ratnagiri,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.4
+Maharashtra,Ratnagiri,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.4
+Maharashtra,Ratnagiri,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.4
+Maharashtra,Sangli,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.7
+Maharashtra,Sangli,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.7
+Maharashtra,Sangli,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.7
+Maharashtra,Satara,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.0
+Maharashtra,Satara,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.0
+Maharashtra,Satara,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.0
+Maharashtra,Sindhudurg,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.0
+Maharashtra,Sindhudurg,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.0
+Maharashtra,Sindhudurg,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.0
+Maharashtra,Solapur,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.5
+Maharashtra,Solapur,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.5
+Maharashtra,Solapur,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.5
+Maharashtra,Thane,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.2
+Maharashtra,Thane,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.2
+Maharashtra,Thane,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.2
+Maharashtra,Wardha,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.3
+Maharashtra,Wardha,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.3
+Maharashtra,Wardha,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.3
+Maharashtra,Washim,Kharif,Semi-arid,25.0,3193,72,Black Cotton,8.5
+Maharashtra,Washim,Rabi,Semi-arid,22.0,798,57,Black Cotton,8.5
+Maharashtra,Washim,Zaid,Semi-arid,32.0,532,52,Black Cotton,8.5
+Maharashtra,Yavatmal,Kharif,Semi-arid,25.0,3193,72,Black Cotton,7.8
+Maharashtra,Yavatmal,Rabi,Semi-arid,22.0,798,57,Black Cotton,7.8
+Maharashtra,Yavatmal,Zaid,Semi-arid,32.0,532,52,Black Cotton,7.8
+Manipur,Bishnupur,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Manipur,Bishnupur,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Manipur,Bishnupur,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Manipur,Chandel,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Manipur,Chandel,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Manipur,Chandel,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Manipur,Churachandpur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Manipur,Churachandpur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Manipur,Churachandpur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Manipur,Imphal East,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Manipur,Imphal East,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Manipur,Imphal East,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Manipur,Imphal West,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Manipur,Imphal West,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Manipur,Imphal West,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Manipur,Jiribam,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Manipur,Jiribam,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Manipur,Jiribam,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Manipur,Kakching,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.3
+Manipur,Kakching,Rabi,Mountain,21.6,371,50,Mountain Soil,6.3
+Manipur,Kakching,Zaid,Mountain,31.6,247,45,Mountain Soil,6.3
+Manipur,Kamjong,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Manipur,Kamjong,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Manipur,Kamjong,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Manipur,Kangpokpi,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Manipur,Kangpokpi,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Manipur,Kangpokpi,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Manipur,Noney,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.9
+Manipur,Noney,Rabi,Mountain,21.6,371,50,Mountain Soil,6.9
+Manipur,Noney,Zaid,Mountain,31.6,247,45,Mountain Soil,6.9
+Manipur,Pherzawl,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Manipur,Pherzawl,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Manipur,Pherzawl,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Manipur,Senapati,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Manipur,Senapati,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Manipur,Senapati,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Manipur,Tamenglong,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.3
+Manipur,Tamenglong,Rabi,Mountain,21.6,371,50,Mountain Soil,6.3
+Manipur,Tamenglong,Zaid,Mountain,31.6,247,45,Mountain Soil,6.3
+Manipur,Tengnoupal,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Manipur,Tengnoupal,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Manipur,Tengnoupal,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Manipur,Thoubal,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Manipur,Thoubal,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Manipur,Thoubal,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Manipur,Ukhrul,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Manipur,Ukhrul,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Manipur,Ukhrul,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Meghalaya,East Garo Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.8
+Meghalaya,East Garo Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.8
+Meghalaya,East Garo Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.8
+Meghalaya,East Jaintia Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Meghalaya,East Jaintia Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Meghalaya,East Jaintia Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Meghalaya,East Khasi Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Meghalaya,East Khasi Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Meghalaya,East Khasi Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Meghalaya,North Garo Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Meghalaya,North Garo Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Meghalaya,North Garo Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Meghalaya,Ri Bhoi,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.3
+Meghalaya,Ri Bhoi,Rabi,Mountain,21.6,371,50,Mountain Soil,6.3
+Meghalaya,Ri Bhoi,Zaid,Mountain,31.6,247,45,Mountain Soil,6.3
+Meghalaya,South Garo Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Meghalaya,South Garo Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Meghalaya,South Garo Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Meghalaya,South West Garo Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Meghalaya,South West Garo Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Meghalaya,South West Garo Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Meghalaya,South West Khasi Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Meghalaya,South West Khasi Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Meghalaya,South West Khasi Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Meghalaya,West Garo Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Meghalaya,West Garo Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Meghalaya,West Garo Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Meghalaya,West Jaintia Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.3
+Meghalaya,West Jaintia Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.3
+Meghalaya,West Jaintia Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.3
+Meghalaya,West Khasi Hills,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Meghalaya,West Khasi Hills,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Meghalaya,West Khasi Hills,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Mizoram,Aizawl,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Mizoram,Aizawl,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Mizoram,Aizawl,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Mizoram,Champhai,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.9
+Mizoram,Champhai,Rabi,Mountain,21.6,371,50,Mountain Soil,6.9
+Mizoram,Champhai,Zaid,Mountain,31.6,247,45,Mountain Soil,6.9
+Mizoram,Hnahthial,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Mizoram,Hnahthial,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Mizoram,Hnahthial,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Mizoram,Kolasib,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.8
+Mizoram,Kolasib,Rabi,Mountain,21.6,371,50,Mountain Soil,5.8
+Mizoram,Kolasib,Zaid,Mountain,31.6,247,45,Mountain Soil,5.8
+Mizoram,Khawzawl,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Mizoram,Khawzawl,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Mizoram,Khawzawl,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Mizoram,Lawngtlai,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Mizoram,Lawngtlai,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Mizoram,Lawngtlai,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Mizoram,Lunglei,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Mizoram,Lunglei,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Mizoram,Lunglei,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Mizoram,Mamit,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Mizoram,Mamit,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Mizoram,Mamit,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Mizoram,Saiha,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Mizoram,Saiha,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Mizoram,Saiha,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Mizoram,Saitual,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Mizoram,Saitual,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Mizoram,Saitual,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Mizoram,Serchhip,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Mizoram,Serchhip,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Mizoram,Serchhip,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Nagaland,Dimapur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Nagaland,Dimapur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Nagaland,Dimapur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Nagaland,Kiphire,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.8
+Nagaland,Kiphire,Rabi,Mountain,21.6,371,50,Mountain Soil,5.8
+Nagaland,Kiphire,Zaid,Mountain,31.6,247,45,Mountain Soil,5.8
+Nagaland,Kohima,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.8
+Nagaland,Kohima,Rabi,Mountain,21.6,371,50,Mountain Soil,6.8
+Nagaland,Kohima,Zaid,Mountain,31.6,247,45,Mountain Soil,6.8
+Nagaland,Longleng,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Nagaland,Longleng,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Nagaland,Longleng,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Nagaland,Mokokchung,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Nagaland,Mokokchung,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Nagaland,Mokokchung,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Nagaland,Mon,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Nagaland,Mon,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Nagaland,Mon,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Nagaland,Noklak,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.3
+Nagaland,Noklak,Rabi,Mountain,21.6,371,50,Mountain Soil,6.3
+Nagaland,Noklak,Zaid,Mountain,31.6,247,45,Mountain Soil,6.3
+Nagaland,Peren,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Nagaland,Peren,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Nagaland,Peren,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Nagaland,Phek,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Nagaland,Phek,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Nagaland,Phek,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Nagaland,Tuensang,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Nagaland,Tuensang,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Nagaland,Tuensang,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Nagaland,Wokha,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Nagaland,Wokha,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Nagaland,Wokha,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Nagaland,Zunheboto,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Nagaland,Zunheboto,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Nagaland,Zunheboto,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Odisha,Angul,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Angul,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Angul,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Balangir,Kharif,Coastal,24.6,1855,65,Alluvial,6.6
+Odisha,Balangir,Rabi,Coastal,21.6,371,50,Alluvial,6.6
+Odisha,Balangir,Zaid,Coastal,31.6,247,45,Alluvial,6.6
+Odisha,Balasore,Kharif,Coastal,24.6,1855,65,Alluvial,6.8
+Odisha,Balasore,Rabi,Coastal,21.6,371,50,Alluvial,6.8
+Odisha,Balasore,Zaid,Coastal,31.6,247,45,Alluvial,6.8
+Odisha,Bargarh,Kharif,Coastal,24.6,1855,65,Alluvial,6.7
+Odisha,Bargarh,Rabi,Coastal,21.6,371,50,Alluvial,6.7
+Odisha,Bargarh,Zaid,Coastal,31.6,247,45,Alluvial,6.7
+Odisha,Bhadrak,Kharif,Coastal,24.6,1855,65,Alluvial,7.3
+Odisha,Bhadrak,Rabi,Coastal,21.6,371,50,Alluvial,7.3
+Odisha,Bhadrak,Zaid,Coastal,31.6,247,45,Alluvial,7.3
+Odisha,Boudh,Kharif,Coastal,24.6,1855,65,Alluvial,6.8
+Odisha,Boudh,Rabi,Coastal,21.6,371,50,Alluvial,6.8
+Odisha,Boudh,Zaid,Coastal,31.6,247,45,Alluvial,6.8
+Odisha,Cuttack,Kharif,Coastal,24.6,1855,65,Alluvial,7.3
+Odisha,Cuttack,Rabi,Coastal,21.6,371,50,Alluvial,7.3
+Odisha,Cuttack,Zaid,Coastal,31.6,247,45,Alluvial,7.3
+Odisha,Deogarh,Kharif,Coastal,24.6,1855,65,Alluvial,6.5
+Odisha,Deogarh,Rabi,Coastal,21.6,371,50,Alluvial,6.5
+Odisha,Deogarh,Zaid,Coastal,31.6,247,45,Alluvial,6.5
+Odisha,Dhenkanal,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Dhenkanal,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Dhenkanal,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Gajapati,Kharif,Coastal,24.6,1855,65,Alluvial,7.1
+Odisha,Gajapati,Rabi,Coastal,21.6,371,50,Alluvial,7.1
+Odisha,Gajapati,Zaid,Coastal,31.6,247,45,Alluvial,7.1
+Odisha,Ganjam,Kharif,Coastal,24.6,1855,65,Alluvial,6.8
+Odisha,Ganjam,Rabi,Coastal,21.6,371,50,Alluvial,6.8
+Odisha,Ganjam,Zaid,Coastal,31.6,247,45,Alluvial,6.8
+Odisha,Jagatsinghpur,Kharif,Coastal,24.6,1855,65,Alluvial,6.7
+Odisha,Jagatsinghpur,Rabi,Coastal,21.6,371,50,Alluvial,6.7
+Odisha,Jagatsinghpur,Zaid,Coastal,31.6,247,45,Alluvial,6.7
+Odisha,Jajpur,Kharif,Coastal,24.6,1855,65,Alluvial,6.7
+Odisha,Jajpur,Rabi,Coastal,21.6,371,50,Alluvial,6.7
+Odisha,Jajpur,Zaid,Coastal,31.6,247,45,Alluvial,6.7
+Odisha,Jharsuguda,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Jharsuguda,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Jharsuguda,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Kalahandi,Kharif,Coastal,24.6,1855,65,Alluvial,7.4
+Odisha,Kalahandi,Rabi,Coastal,21.6,371,50,Alluvial,7.4
+Odisha,Kalahandi,Zaid,Coastal,31.6,247,45,Alluvial,7.4
+Odisha,Kandhamal,Kharif,Coastal,24.6,1855,65,Alluvial,6.9
+Odisha,Kandhamal,Rabi,Coastal,21.6,371,50,Alluvial,6.9
+Odisha,Kandhamal,Zaid,Coastal,31.6,247,45,Alluvial,6.9
+Odisha,Kendrapara,Kharif,Coastal,24.6,1855,65,Alluvial,6.7
+Odisha,Kendrapara,Rabi,Coastal,21.6,371,50,Alluvial,6.7
+Odisha,Kendrapara,Zaid,Coastal,31.6,247,45,Alluvial,6.7
+Odisha,Kendujhar,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Kendujhar,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Kendujhar,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Khordha,Kharif,Coastal,24.6,1855,65,Alluvial,7.2
+Odisha,Khordha,Rabi,Coastal,21.6,371,50,Alluvial,7.2
+Odisha,Khordha,Zaid,Coastal,31.6,247,45,Alluvial,7.2
+Odisha,Koraput,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Koraput,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Koraput,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Malkangiri,Kharif,Coastal,24.6,1855,65,Alluvial,7.4
+Odisha,Malkangiri,Rabi,Coastal,21.6,371,50,Alluvial,7.4
+Odisha,Malkangiri,Zaid,Coastal,31.6,247,45,Alluvial,7.4
+Odisha,Mayurbhanj,Kharif,Coastal,24.6,1855,65,Alluvial,7.3
+Odisha,Mayurbhanj,Rabi,Coastal,21.6,371,50,Alluvial,7.3
+Odisha,Mayurbhanj,Zaid,Coastal,31.6,247,45,Alluvial,7.3
+Odisha,Nabarangpur,Kharif,Coastal,24.6,1855,65,Alluvial,7.2
+Odisha,Nabarangpur,Rabi,Coastal,21.6,371,50,Alluvial,7.2
+Odisha,Nabarangpur,Zaid,Coastal,31.6,247,45,Alluvial,7.2
+Odisha,Nayagarh,Kharif,Coastal,24.6,1855,65,Alluvial,7.3
+Odisha,Nayagarh,Rabi,Coastal,21.6,371,50,Alluvial,7.3
+Odisha,Nayagarh,Zaid,Coastal,31.6,247,45,Alluvial,7.3
+Odisha,Nuapada,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Nuapada,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Nuapada,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Puri,Kharif,Coastal,24.6,1855,65,Alluvial,6.6
+Odisha,Puri,Rabi,Coastal,21.6,371,50,Alluvial,6.6
+Odisha,Puri,Zaid,Coastal,31.6,247,45,Alluvial,6.6
+Odisha,Rayagada,Kharif,Coastal,24.6,1855,65,Alluvial,7.0
+Odisha,Rayagada,Rabi,Coastal,21.6,371,50,Alluvial,7.0
+Odisha,Rayagada,Zaid,Coastal,31.6,247,45,Alluvial,7.0
+Odisha,Sambalpur,Kharif,Coastal,24.6,1855,65,Alluvial,7.4
+Odisha,Sambalpur,Rabi,Coastal,21.6,371,50,Alluvial,7.4
+Odisha,Sambalpur,Zaid,Coastal,31.6,247,45,Alluvial,7.4
+Odisha,Subarnapur,Kharif,Coastal,24.6,1855,65,Alluvial,7.3
+Odisha,Subarnapur,Rabi,Coastal,21.6,371,50,Alluvial,7.3
+Odisha,Subarnapur,Zaid,Coastal,31.6,247,45,Alluvial,7.3
+Odisha,Sundargarh,Kharif,Coastal,24.6,1855,65,Alluvial,6.8
+Odisha,Sundargarh,Rabi,Coastal,21.6,371,50,Alluvial,6.8
+Odisha,Sundargarh,Zaid,Coastal,31.6,247,45,Alluvial,6.8
+Punjab,Amritsar,Kharif,Mountain,21.7,1628,65,Mountain Soil,5.7
+Punjab,Amritsar,Rabi,Mountain,18.7,407,50,Mountain Soil,5.7
+Punjab,Amritsar,Zaid,Mountain,28.7,271,45,Mountain Soil,5.7
+Punjab,Barnala,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.7
+Punjab,Barnala,Rabi,Mountain,18.7,419,50,Mountain Soil,5.7
+Punjab,Barnala,Zaid,Mountain,28.7,279,45,Mountain Soil,5.7
+Punjab,Bathinda,Kharif,Mountain,22.9,928,57,Mountain Soil,6.0
+Punjab,Bathinda,Rabi,Mountain,19.9,232,42,Mountain Soil,6.0
+Punjab,Bathinda,Zaid,Mountain,29.9,154,37,Mountain Soil,6.0
+Punjab,Faridkot,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.2
+Punjab,Faridkot,Rabi,Mountain,18.7,419,50,Mountain Soil,6.2
+Punjab,Faridkot,Zaid,Mountain,28.7,279,45,Mountain Soil,6.2
+Punjab,Fatehgarh Sahib,Kharif,Mountain,21.7,1676,65,Mountain Soil,7.0
+Punjab,Fatehgarh Sahib,Rabi,Mountain,18.7,419,50,Mountain Soil,7.0
+Punjab,Fatehgarh Sahib,Zaid,Mountain,28.7,279,45,Mountain Soil,7.0
+Punjab,Fazilka,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.8
+Punjab,Fazilka,Rabi,Mountain,18.7,419,50,Mountain Soil,5.8
+Punjab,Fazilka,Zaid,Mountain,28.7,279,45,Mountain Soil,5.8
+Punjab,Ferozepur,Kharif,Mountain,21.7,1676,65,Mountain Soil,7.0
+Punjab,Ferozepur,Rabi,Mountain,18.7,419,50,Mountain Soil,7.0
+Punjab,Ferozepur,Zaid,Mountain,28.7,279,45,Mountain Soil,7.0
+Punjab,Gurdaspur,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.0
+Punjab,Gurdaspur,Rabi,Mountain,18.7,419,50,Mountain Soil,6.0
+Punjab,Gurdaspur,Zaid,Mountain,28.7,279,45,Mountain Soil,6.0
+Punjab,Hoshiarpur,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.7
+Punjab,Hoshiarpur,Rabi,Mountain,18.7,419,50,Mountain Soil,6.7
+Punjab,Hoshiarpur,Zaid,Mountain,28.7,279,45,Mountain Soil,6.7
+Punjab,Jalandhar,Kharif,Mountain,21.3,1875,67,Mountain Soil,6.5
+Punjab,Jalandhar,Rabi,Mountain,18.3,468,52,Mountain Soil,6.5
+Punjab,Jalandhar,Zaid,Mountain,28.3,312,47,Mountain Soil,6.5
+Punjab,Kapurthala,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.7
+Punjab,Kapurthala,Rabi,Mountain,18.7,419,50,Mountain Soil,5.7
+Punjab,Kapurthala,Zaid,Mountain,28.7,279,45,Mountain Soil,5.7
+Punjab,Ludhiana,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.3
+Punjab,Ludhiana,Rabi,Mountain,18.7,419,50,Mountain Soil,6.3
+Punjab,Ludhiana,Zaid,Mountain,28.7,279,45,Mountain Soil,6.3
+Punjab,Mansa,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.6
+Punjab,Mansa,Rabi,Mountain,18.7,419,50,Mountain Soil,5.6
+Punjab,Mansa,Zaid,Mountain,28.7,279,45,Mountain Soil,5.6
+Punjab,Moga,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.8
+Punjab,Moga,Rabi,Mountain,18.7,419,50,Mountain Soil,5.8
+Punjab,Moga,Zaid,Mountain,28.7,279,45,Mountain Soil,5.8
+Punjab,Muktsar,Kharif,Mountain,21.7,1676,65,Mountain Soil,7.0
+Punjab,Muktsar,Rabi,Mountain,18.7,419,50,Mountain Soil,7.0
+Punjab,Muktsar,Zaid,Mountain,28.7,279,45,Mountain Soil,7.0
+Punjab,Nawanshahr,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.0
+Punjab,Nawanshahr,Rabi,Mountain,18.7,419,50,Mountain Soil,6.0
+Punjab,Nawanshahr,Zaid,Mountain,28.7,279,45,Mountain Soil,6.0
+Punjab,Pathankot,Kharif,Mountain,21.7,1676,65,Mountain Soil,5.7
+Punjab,Pathankot,Rabi,Mountain,18.7,419,50,Mountain Soil,5.7
+Punjab,Pathankot,Zaid,Mountain,28.7,279,45,Mountain Soil,5.7
+Punjab,Patiala,Kharif,Mountain,21.7,1584,65,Mountain Soil,6.6
+Punjab,Patiala,Rabi,Mountain,18.7,396,50,Mountain Soil,6.6
+Punjab,Patiala,Zaid,Mountain,28.7,264,45,Mountain Soil,6.6
+Punjab,Rupnagar,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.3
+Punjab,Rupnagar,Rabi,Mountain,18.7,419,50,Mountain Soil,6.3
+Punjab,Rupnagar,Zaid,Mountain,28.7,279,45,Mountain Soil,6.3
+Punjab,Sangrur,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.6
+Punjab,Sangrur,Rabi,Mountain,18.7,419,50,Mountain Soil,6.6
+Punjab,Sangrur,Zaid,Mountain,28.7,279,45,Mountain Soil,6.6
+Punjab,Tarn Taran,Kharif,Mountain,21.7,1676,65,Mountain Soil,6.3
+Punjab,Tarn Taran,Rabi,Mountain,18.7,419,50,Mountain Soil,6.3
+Punjab,Tarn Taran,Zaid,Mountain,28.7,279,45,Mountain Soil,6.3
+Rajasthan,Ajmer,Kharif,Semi-arid,22.8,892,55,Red Sandy,5.6
+Rajasthan,Ajmer,Rabi,Semi-arid,19.8,223,40,Red Sandy,5.6
+Rajasthan,Ajmer,Zaid,Semi-arid,29.8,148,35,Red Sandy,5.6
+Rajasthan,Alwar,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.4
+Rajasthan,Alwar,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.4
+Rajasthan,Alwar,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.4
+Rajasthan,Banswara,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.6
+Rajasthan,Banswara,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.6
+Rajasthan,Banswara,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.6
+Rajasthan,Baran,Kharif,Semi-arid,22.8,892,55,Red Sandy,5.7
+Rajasthan,Baran,Rabi,Semi-arid,19.8,223,40,Red Sandy,5.7
+Rajasthan,Baran,Zaid,Semi-arid,29.8,148,35,Red Sandy,5.7
+Rajasthan,Barmer,Kharif,Arid,22.8,892,55,Sandy,8.0
+Rajasthan,Barmer,Rabi,Arid,19.8,223,40,Sandy,8.0
+Rajasthan,Barmer,Zaid,Arid,29.8,148,35,Sandy,8.0
+Rajasthan,Bharatpur,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.3
+Rajasthan,Bharatpur,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.3
+Rajasthan,Bharatpur,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.3
+Rajasthan,Bhilwara,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.7
+Rajasthan,Bhilwara,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.7
+Rajasthan,Bhilwara,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.7
+Rajasthan,Bikaner,Kharif,Arid,24.6,555,47,Sandy,7.9
+Rajasthan,Bikaner,Rabi,Arid,21.6,138,32,Sandy,7.9
+Rajasthan,Bikaner,Zaid,Arid,31.6,92,27,Sandy,7.9
+Rajasthan,Bundi,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.2
+Rajasthan,Bundi,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.2
+Rajasthan,Bundi,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.2
+Rajasthan,Chittorgarh,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.5
+Rajasthan,Chittorgarh,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.5
+Rajasthan,Chittorgarh,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.5
+Rajasthan,Churu,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.2
+Rajasthan,Churu,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.2
+Rajasthan,Churu,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.2
+Rajasthan,Dausa,Kharif,Semi-arid,22.8,892,55,Red Sandy,5.6
+Rajasthan,Dausa,Rabi,Semi-arid,19.8,223,40,Red Sandy,5.6
+Rajasthan,Dausa,Zaid,Semi-arid,29.8,148,35,Red Sandy,5.6
+Rajasthan,Dholpur,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.4
+Rajasthan,Dholpur,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.4
+Rajasthan,Dholpur,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.4
+Rajasthan,Dungarpur,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.3
+Rajasthan,Dungarpur,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.3
+Rajasthan,Dungarpur,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.3
+Rajasthan,Ganganagar,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.4
+Rajasthan,Ganganagar,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.4
+Rajasthan,Ganganagar,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.4
+Rajasthan,Hanumangarh,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.0
+Rajasthan,Hanumangarh,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.0
+Rajasthan,Hanumangarh,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.0
+Rajasthan,Jaipur,Kharif,Semi-arid,22.8,892,55,Red Sandy,5.9
+Rajasthan,Jaipur,Rabi,Semi-arid,19.8,223,40,Red Sandy,5.9
+Rajasthan,Jaipur,Zaid,Semi-arid,29.8,148,35,Red Sandy,5.9
+Rajasthan,Jaisalmer,Kharif,Arid,22.8,892,55,Sandy,7.6
+Rajasthan,Jaisalmer,Rabi,Arid,19.8,223,40,Sandy,7.6
+Rajasthan,Jaisalmer,Zaid,Arid,29.8,148,35,Sandy,7.6
+Rajasthan,Jalore,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.1
+Rajasthan,Jalore,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.1
+Rajasthan,Jalore,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.1
+Rajasthan,Jhalawar,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.0
+Rajasthan,Jhalawar,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.0
+Rajasthan,Jhalawar,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.0
+Rajasthan,Jhunjhunu,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.8
+Rajasthan,Jhunjhunu,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.8
+Rajasthan,Jhunjhunu,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.8
+Rajasthan,Jodhpur,Kharif,Arid,24.1,771,54,Sandy,8.4
+Rajasthan,Jodhpur,Rabi,Arid,21.1,192,39,Sandy,8.4
+Rajasthan,Jodhpur,Zaid,Arid,31.1,128,34,Sandy,8.4
+Rajasthan,Karauli,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.8
+Rajasthan,Karauli,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.8
+Rajasthan,Karauli,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.8
+Rajasthan,Kota,Kharif,Semi-arid,23.3,831,58,Red Sandy,6.7
+Rajasthan,Kota,Rabi,Semi-arid,20.3,207,43,Red Sandy,6.7
+Rajasthan,Kota,Zaid,Semi-arid,30.3,138,38,Red Sandy,6.7
+Rajasthan,Nagaur,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.2
+Rajasthan,Nagaur,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.2
+Rajasthan,Nagaur,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.2
+Rajasthan,Pali,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.3
+Rajasthan,Pali,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.3
+Rajasthan,Pali,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.3
+Rajasthan,Pratapgarh,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.4
+Rajasthan,Pratapgarh,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.4
+Rajasthan,Pratapgarh,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.4
+Rajasthan,Rajsamand,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.1
+Rajasthan,Rajsamand,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.1
+Rajasthan,Rajsamand,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.1
+Rajasthan,Sawai Madhopur,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.5
+Rajasthan,Sawai Madhopur,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.5
+Rajasthan,Sawai Madhopur,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.5
+Rajasthan,Sikar,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.1
+Rajasthan,Sikar,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.1
+Rajasthan,Sikar,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.1
+Rajasthan,Sirohi,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.3
+Rajasthan,Sirohi,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.3
+Rajasthan,Sirohi,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.3
+Rajasthan,Tonk,Kharif,Semi-arid,22.8,892,55,Red Sandy,6.3
+Rajasthan,Tonk,Rabi,Semi-arid,19.8,223,40,Red Sandy,6.3
+Rajasthan,Tonk,Zaid,Semi-arid,29.8,148,35,Red Sandy,6.3
+Rajasthan,Udaipur,Kharif,Semi-arid,21.9,1215,61,Red Sandy,6.5
+Rajasthan,Udaipur,Rabi,Semi-arid,18.9,303,46,Red Sandy,6.5
+Rajasthan,Udaipur,Zaid,Semi-arid,28.9,202,41,Red Sandy,6.5
+Sikkim,East Sikkim,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Sikkim,East Sikkim,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Sikkim,East Sikkim,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Sikkim,North Sikkim,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.8
+Sikkim,North Sikkim,Rabi,Mountain,21.6,371,50,Mountain Soil,6.8
+Sikkim,North Sikkim,Zaid,Mountain,31.6,247,45,Mountain Soil,6.8
+Sikkim,South Sikkim,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.8
+Sikkim,South Sikkim,Rabi,Mountain,21.6,371,50,Mountain Soil,5.8
+Sikkim,South Sikkim,Zaid,Mountain,31.6,247,45,Mountain Soil,5.8
+Sikkim,West Sikkim,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Sikkim,West Sikkim,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Sikkim,West Sikkim,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+Tamil Nadu,Ariyalur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Ariyalur,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Ariyalur,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Tamil Nadu,Chengalpattu,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Chengalpattu,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Chengalpattu,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Tamil Nadu,Chennai,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.0
+Tamil Nadu,Chennai,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.0
+Tamil Nadu,Chennai,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.0
+Tamil Nadu,Coimbatore,Kharif,Coastal,22.9,1717,79,Alluvial,6.9
+Tamil Nadu,Coimbatore,Rabi,Coastal,19.9,343,64,Alluvial,6.9
+Tamil Nadu,Coimbatore,Zaid,Coastal,29.9,229,59,Alluvial,6.9
+Tamil Nadu,Cuddalore,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.5
+Tamil Nadu,Cuddalore,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.5
+Tamil Nadu,Cuddalore,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.5
+Tamil Nadu,Dharmapuri,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.5
+Tamil Nadu,Dharmapuri,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.5
+Tamil Nadu,Dharmapuri,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.5
+Tamil Nadu,Dindigul,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.7
+Tamil Nadu,Dindigul,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.7
+Tamil Nadu,Dindigul,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.7
+Tamil Nadu,Erode,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.4
+Tamil Nadu,Erode,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.4
+Tamil Nadu,Erode,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.4
+Tamil Nadu,Kallakurichi,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.7
+Tamil Nadu,Kallakurichi,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.7
+Tamil Nadu,Kallakurichi,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.7
+Tamil Nadu,Kanchipuram,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.5
+Tamil Nadu,Kanchipuram,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.5
+Tamil Nadu,Kanchipuram,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.5
+Tamil Nadu,Kanyakumari,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.1
+Tamil Nadu,Kanyakumari,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.1
+Tamil Nadu,Kanyakumari,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.1
+Tamil Nadu,Karur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Karur,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Karur,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Krishnagiri,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Krishnagiri,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Krishnagiri,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Madurai,Kharif,Coastal,25.4,1711,76,Alluvial,7.0
+Tamil Nadu,Madurai,Rabi,Coastal,22.4,342,61,Alluvial,7.0
+Tamil Nadu,Madurai,Zaid,Coastal,32.4,228,56,Alluvial,7.0
+Tamil Nadu,Mayiladuthurai,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.7
+Tamil Nadu,Mayiladuthurai,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.7
+Tamil Nadu,Mayiladuthurai,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.7
+Tamil Nadu,Nagapattinam,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.4
+Tamil Nadu,Nagapattinam,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.4
+Tamil Nadu,Nagapattinam,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.4
+Tamil Nadu,Namakkal,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.8
+Tamil Nadu,Namakkal,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.8
+Tamil Nadu,Namakkal,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.8
+Tamil Nadu,Nilgiris,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.5
+Tamil Nadu,Nilgiris,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.5
+Tamil Nadu,Nilgiris,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.5
+Tamil Nadu,Perambalur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.8
+Tamil Nadu,Perambalur,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.8
+Tamil Nadu,Perambalur,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.8
+Tamil Nadu,Pudukkottai,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Pudukkottai,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Pudukkottai,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Ramanathapuram,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Ramanathapuram,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Ramanathapuram,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Ranipet,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Ranipet,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Ranipet,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Tamil Nadu,Salem,Kharif,Coastal,25.4,1099,71,Alluvial,7.0
+Tamil Nadu,Salem,Rabi,Coastal,22.4,219,56,Alluvial,7.0
+Tamil Nadu,Salem,Zaid,Coastal,32.4,146,51,Alluvial,7.0
+Tamil Nadu,Sivaganga,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.1
+Tamil Nadu,Sivaganga,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.1
+Tamil Nadu,Sivaganga,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.1
+Tamil Nadu,Tenkasi,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Tenkasi,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Tenkasi,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Tamil Nadu,Thanjavur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Thanjavur,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Thanjavur,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Theni,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.3
+Tamil Nadu,Theni,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.3
+Tamil Nadu,Theni,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.3
+Tamil Nadu,Thoothukudi,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.8
+Tamil Nadu,Thoothukudi,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.8
+Tamil Nadu,Thoothukudi,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.8
+Tamil Nadu,Tiruchirappalli,Kharif,Coastal,25.9,1261,75,Alluvial,7.3
+Tamil Nadu,Tiruchirappalli,Rabi,Coastal,22.9,252,60,Alluvial,7.3
+Tamil Nadu,Tiruchirappalli,Zaid,Coastal,32.9,168,55,Alluvial,7.3
+Tamil Nadu,Tirunelveli,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.5
+Tamil Nadu,Tirunelveli,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.5
+Tamil Nadu,Tirunelveli,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.5
+Tamil Nadu,Tirupathur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.6
+Tamil Nadu,Tirupathur,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.6
+Tamil Nadu,Tirupathur,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.6
+Tamil Nadu,Tiruppur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.7
+Tamil Nadu,Tiruppur,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.7
+Tamil Nadu,Tiruppur,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.7
+Tamil Nadu,Tiruvallur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.6
+Tamil Nadu,Tiruvallur,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.6
+Tamil Nadu,Tiruvallur,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.6
+Tamil Nadu,Tiruvannamalai,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.7
+Tamil Nadu,Tiruvannamalai,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.7
+Tamil Nadu,Tiruvannamalai,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.7
+Tamil Nadu,Tiruvarur,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.5
+Tamil Nadu,Tiruvarur,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.5
+Tamil Nadu,Tiruvarur,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.5
+Tamil Nadu,Vellore,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Vellore,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Vellore,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Tamil Nadu,Viluppuram,Kharif,Semi-arid,26.0,1831,80,Red Sandy,6.0
+Tamil Nadu,Viluppuram,Rabi,Semi-arid,23.0,457,65,Red Sandy,6.0
+Tamil Nadu,Viluppuram,Zaid,Semi-arid,33.0,305,60,Red Sandy,6.0
+Tamil Nadu,Virudhunagar,Kharif,Semi-arid,26.0,1831,80,Red Sandy,5.9
+Tamil Nadu,Virudhunagar,Rabi,Semi-arid,23.0,457,65,Red Sandy,5.9
+Tamil Nadu,Virudhunagar,Zaid,Semi-arid,33.0,305,60,Red Sandy,5.9
+Telangana,Adilabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Telangana,Adilabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Telangana,Adilabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Telangana,Bhadradri Kothagudem,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.7
+Telangana,Bhadradri Kothagudem,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.7
+Telangana,Bhadradri Kothagudem,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.7
+Telangana,Hyderabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Telangana,Hyderabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Telangana,Hyderabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Telangana,Jagtial,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.0
+Telangana,Jagtial,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.0
+Telangana,Jagtial,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.0
+Telangana,Jangaon,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.5
+Telangana,Jangaon,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.5
+Telangana,Jangaon,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.5
+Telangana,Jayashankar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Telangana,Jayashankar,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Telangana,Jayashankar,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Telangana,Jogulamba,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Telangana,Jogulamba,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Telangana,Jogulamba,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Telangana,Kamareddy,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.1
+Telangana,Kamareddy,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.1
+Telangana,Kamareddy,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.1
+Telangana,Karimnagar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.8
+Telangana,Karimnagar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.8
+Telangana,Karimnagar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.8
+Telangana,Khammam,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.4
+Telangana,Khammam,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.4
+Telangana,Khammam,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.4
+Telangana,Komaram Bheem,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Telangana,Komaram Bheem,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Telangana,Komaram Bheem,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Telangana,Mahabubabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Telangana,Mahabubabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Telangana,Mahabubabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Telangana,Mahbubnagar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.0
+Telangana,Mahbubnagar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.0
+Telangana,Mahbubnagar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.0
+Telangana,Mancherial,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Telangana,Mancherial,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Telangana,Mancherial,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Telangana,Medak,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Telangana,Medak,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Telangana,Medak,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Telangana,Medchal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Telangana,Medchal,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Telangana,Medchal,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Telangana,Mulugu,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Telangana,Mulugu,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Telangana,Mulugu,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Telangana,Nagarkurnool,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Telangana,Nagarkurnool,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Telangana,Nagarkurnool,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Telangana,Nalgonda,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.7
+Telangana,Nalgonda,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.7
+Telangana,Nalgonda,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.7
+Telangana,Narayanpet,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Telangana,Narayanpet,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Telangana,Narayanpet,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Telangana,Nirmal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.5
+Telangana,Nirmal,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.5
+Telangana,Nirmal,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.5
+Telangana,Nizamabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Telangana,Nizamabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Telangana,Nizamabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Telangana,Peddapalli,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Telangana,Peddapalli,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Telangana,Peddapalli,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Telangana,Rajanna Sircilla,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Rajanna Sircilla,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Rajanna Sircilla,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Rangareddy,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Rangareddy,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Rangareddy,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Sangareddy,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.8
+Telangana,Sangareddy,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.8
+Telangana,Sangareddy,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.8
+Telangana,Siddipet,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Siddipet,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Siddipet,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Suryapet,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Suryapet,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Suryapet,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Vikarabad,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Vikarabad,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Vikarabad,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Wanaparthy,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.5
+Telangana,Wanaparthy,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.5
+Telangana,Wanaparthy,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.5
+Telangana,Warangal Rural,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Telangana,Warangal Rural,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Telangana,Warangal Rural,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Telangana,Warangal Urban,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Telangana,Warangal Urban,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Telangana,Warangal Urban,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Telangana,Yadadri Bhuvanagiri,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Telangana,Yadadri Bhuvanagiri,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Telangana,Yadadri Bhuvanagiri,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Tripura,Dhalai,Kharif,Tropical,24.6,1855,65,Red Laterite,5.8
+Tripura,Dhalai,Rabi,Tropical,21.6,371,50,Red Laterite,5.8
+Tripura,Dhalai,Zaid,Tropical,31.6,247,45,Red Laterite,5.8
+Tripura,Gomati,Kharif,Tropical,24.6,1855,65,Red Laterite,5.0
+Tripura,Gomati,Rabi,Tropical,21.6,371,50,Red Laterite,5.0
+Tripura,Gomati,Zaid,Tropical,31.6,247,45,Red Laterite,5.0
+Tripura,Khowai,Kharif,Tropical,24.6,1855,65,Red Laterite,5.6
+Tripura,Khowai,Rabi,Tropical,21.6,371,50,Red Laterite,5.6
+Tripura,Khowai,Zaid,Tropical,31.6,247,45,Red Laterite,5.6
+Tripura,North Tripura,Kharif,Tropical,24.6,1855,65,Red Laterite,5.3
+Tripura,North Tripura,Rabi,Tropical,21.6,371,50,Red Laterite,5.3
+Tripura,North Tripura,Zaid,Tropical,31.6,247,45,Red Laterite,5.3
+Tripura,Sepahijala,Kharif,Tropical,24.6,1855,65,Red Laterite,5.7
+Tripura,Sepahijala,Rabi,Tropical,21.6,371,50,Red Laterite,5.7
+Tripura,Sepahijala,Zaid,Tropical,31.6,247,45,Red Laterite,5.7
+Tripura,South Tripura,Kharif,Tropical,24.6,1855,65,Red Laterite,5.2
+Tripura,South Tripura,Rabi,Tropical,21.6,371,50,Red Laterite,5.2
+Tripura,South Tripura,Zaid,Tropical,31.6,247,45,Red Laterite,5.2
+Tripura,Unakoti,Kharif,Tropical,24.6,1855,65,Red Laterite,6.3
+Tripura,Unakoti,Rabi,Tropical,21.6,371,50,Red Laterite,6.3
+Tripura,Unakoti,Zaid,Tropical,31.6,247,45,Red Laterite,6.3
+Tripura,West Tripura,Kharif,Tropical,24.6,1855,65,Red Laterite,5.5
+Tripura,West Tripura,Rabi,Tropical,21.6,371,50,Red Laterite,5.5
+Tripura,West Tripura,Zaid,Tropical,31.6,247,45,Red Laterite,5.5
+Uttar Pradesh,Agra,Kharif,Semi-arid,23.9,825,56,Red Sandy,6.3
+Uttar Pradesh,Agra,Rabi,Semi-arid,20.9,206,41,Red Sandy,6.3
+Uttar Pradesh,Agra,Zaid,Semi-arid,30.9,137,36,Red Sandy,6.3
+Uttar Pradesh,Aligarh,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Aligarh,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Aligarh,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Ambedkar Nagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Ambedkar Nagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Ambedkar Nagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Amethi,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Amethi,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Amethi,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Amroha,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Amroha,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Amroha,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Auraiya,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Auraiya,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Auraiya,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Ayodhya,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Ayodhya,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Ayodhya,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Azamgarh,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Azamgarh,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Azamgarh,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Baghpat,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Baghpat,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Baghpat,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Bahraich,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Bahraich,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Bahraich,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Ballia,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Ballia,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Ballia,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Balrampur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Balrampur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Balrampur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Banda,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Banda,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Banda,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Barabanki,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.6
+Uttar Pradesh,Barabanki,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.6
+Uttar Pradesh,Barabanki,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.6
+Uttar Pradesh,Bareilly,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Bareilly,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Bareilly,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Basti,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.5
+Uttar Pradesh,Basti,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.5
+Uttar Pradesh,Basti,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.5
+Uttar Pradesh,Bhadohi,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Bhadohi,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Bhadohi,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Bijnor,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Bijnor,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Bijnor,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Budaun,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Budaun,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Budaun,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Bulandshahr,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.6
+Uttar Pradesh,Bulandshahr,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.6
+Uttar Pradesh,Bulandshahr,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.6
+Uttar Pradesh,Chandauli,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Chandauli,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Chandauli,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Chitrakoot,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Chitrakoot,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Chitrakoot,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Deoria,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Deoria,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Deoria,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Etah,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Etah,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Etah,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Etawah,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Etawah,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Etawah,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Farrukhabad,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Farrukhabad,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Farrukhabad,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Fatehpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Fatehpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Fatehpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Firozabad,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.5
+Uttar Pradesh,Firozabad,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.5
+Uttar Pradesh,Firozabad,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.5
+Uttar Pradesh,Gautam Buddha Nagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.4
+Uttar Pradesh,Gautam Buddha Nagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.4
+Uttar Pradesh,Gautam Buddha Nagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.4
+Uttar Pradesh,Ghaziabad,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Ghaziabad,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Ghaziabad,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Ghazipur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Ghazipur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Ghazipur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Gonda,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Gonda,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Gonda,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Gorakhpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Gorakhpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Gorakhpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Hamirpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Hamirpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Hamirpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Hapur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.8
+Uttar Pradesh,Hapur,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.8
+Uttar Pradesh,Hapur,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.8
+Uttar Pradesh,Hardoi,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.5
+Uttar Pradesh,Hardoi,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.5
+Uttar Pradesh,Hardoi,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.5
+Uttar Pradesh,Hathras,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.4
+Uttar Pradesh,Hathras,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.4
+Uttar Pradesh,Hathras,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.4
+Uttar Pradesh,Jalaun,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.5
+Uttar Pradesh,Jalaun,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.5
+Uttar Pradesh,Jalaun,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.5
+Uttar Pradesh,Jaunpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.4
+Uttar Pradesh,Jaunpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.4
+Uttar Pradesh,Jaunpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.4
+Uttar Pradesh,Jhansi,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Jhansi,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Jhansi,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Kannauj,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.8
+Uttar Pradesh,Kannauj,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.8
+Uttar Pradesh,Kannauj,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.8
+Uttar Pradesh,Kanpur Dehat,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.3
+Uttar Pradesh,Kanpur Dehat,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.3
+Uttar Pradesh,Kanpur Dehat,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.3
+Uttar Pradesh,Kanpur Nagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.6
+Uttar Pradesh,Kanpur Nagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.6
+Uttar Pradesh,Kanpur Nagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.6
+Uttar Pradesh,Kasganj,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Kasganj,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Kasganj,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Kaushambi,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Kaushambi,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Kaushambi,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Kheri,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.8
+Uttar Pradesh,Kheri,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.8
+Uttar Pradesh,Kheri,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.8
+Uttar Pradesh,Kushinagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.5
+Uttar Pradesh,Kushinagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.5
+Uttar Pradesh,Kushinagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.5
+Uttar Pradesh,Lalitpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.5
+Uttar Pradesh,Lalitpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.5
+Uttar Pradesh,Lalitpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.5
+Uttar Pradesh,Lucknow,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.8
+Uttar Pradesh,Lucknow,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.8
+Uttar Pradesh,Lucknow,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.8
+Uttar Pradesh,Maharajganj,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Maharajganj,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Maharajganj,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Mahoba,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Mahoba,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Mahoba,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Mainpuri,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.4
+Uttar Pradesh,Mainpuri,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.4
+Uttar Pradesh,Mainpuri,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.4
+Uttar Pradesh,Mathura,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Mathura,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Mathura,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Mau,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Mau,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Mau,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Meerut,Kharif,Mountain,22.3,1208,62,Mountain Soil,7.0
+Uttar Pradesh,Meerut,Rabi,Mountain,19.3,302,47,Mountain Soil,7.0
+Uttar Pradesh,Meerut,Zaid,Mountain,29.3,201,42,Mountain Soil,7.0
+Uttar Pradesh,Mirzapur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.2
+Uttar Pradesh,Mirzapur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.2
+Uttar Pradesh,Mirzapur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.2
+Uttar Pradesh,Moradabad,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.6
+Uttar Pradesh,Moradabad,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.6
+Uttar Pradesh,Moradabad,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.6
+Uttar Pradesh,Muzaffarnagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Muzaffarnagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Muzaffarnagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Pilibhit,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Pilibhit,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Pilibhit,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Pratapgarh,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Pratapgarh,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Pratapgarh,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Prayagraj,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.6
+Uttar Pradesh,Prayagraj,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.6
+Uttar Pradesh,Prayagraj,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.6
+Uttar Pradesh,Raebareli,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.8
+Uttar Pradesh,Raebareli,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.8
+Uttar Pradesh,Raebareli,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.8
+Uttar Pradesh,Rampur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Rampur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Rampur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Saharanpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Saharanpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Saharanpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Sambhal,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.7
+Uttar Pradesh,Sambhal,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.7
+Uttar Pradesh,Sambhal,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.7
+Uttar Pradesh,Sant Kabir Nagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.4
+Uttar Pradesh,Sant Kabir Nagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.4
+Uttar Pradesh,Sant Kabir Nagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.4
+Uttar Pradesh,Shahjahanpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.0
+Uttar Pradesh,Shahjahanpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.0
+Uttar Pradesh,Shahjahanpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.0
+Uttar Pradesh,Shamli,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.1
+Uttar Pradesh,Shamli,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.1
+Uttar Pradesh,Shamli,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.1
+Uttar Pradesh,Shrawasti,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.8
+Uttar Pradesh,Shrawasti,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.8
+Uttar Pradesh,Shrawasti,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.8
+Uttar Pradesh,Siddharthnagar,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Siddharthnagar,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Siddharthnagar,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Sitapur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Sitapur,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Sitapur,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Sonbhadra,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.9
+Uttar Pradesh,Sonbhadra,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.9
+Uttar Pradesh,Sonbhadra,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.9
+Uttar Pradesh,Sultanpur,Kharif,Semi-arid,23.5,1143,62,Red Sandy,6.6
+Uttar Pradesh,Sultanpur,Rabi,Semi-arid,20.5,285,47,Red Sandy,6.6
+Uttar Pradesh,Sultanpur,Zaid,Semi-arid,30.5,190,42,Red Sandy,6.6
+Uttar Pradesh,Unnao,Kharif,Semi-arid,23.5,1143,62,Red Sandy,5.7
+Uttar Pradesh,Unnao,Rabi,Semi-arid,20.5,285,47,Red Sandy,5.7
+Uttar Pradesh,Unnao,Zaid,Semi-arid,30.5,190,42,Red Sandy,5.7
+Uttar Pradesh,Varanasi,Kharif,Semi-arid,24.7,933,58,Red Sandy,5.8
+Uttar Pradesh,Varanasi,Rabi,Semi-arid,21.7,233,43,Red Sandy,5.8
+Uttar Pradesh,Varanasi,Zaid,Semi-arid,31.7,155,38,Red Sandy,5.8
+Uttarakhand,Almora,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Uttarakhand,Almora,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Uttarakhand,Almora,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Uttarakhand,Bageshwar,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Uttarakhand,Bageshwar,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Uttarakhand,Bageshwar,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Uttarakhand,Chamoli,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Uttarakhand,Chamoli,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Uttarakhand,Chamoli,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Uttarakhand,Champawat,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Uttarakhand,Champawat,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Uttarakhand,Champawat,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Uttarakhand,Dehradun,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Uttarakhand,Dehradun,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Uttarakhand,Dehradun,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Uttarakhand,Haridwar,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Uttarakhand,Haridwar,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Uttarakhand,Haridwar,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Uttarakhand,Nainital,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.8
+Uttarakhand,Nainital,Rabi,Mountain,21.6,371,50,Mountain Soil,5.8
+Uttarakhand,Nainital,Zaid,Mountain,31.6,247,45,Mountain Soil,5.8
+Uttarakhand,Pauri,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Uttarakhand,Pauri,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Uttarakhand,Pauri,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Uttarakhand,Pithoragarh,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Uttarakhand,Pithoragarh,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Uttarakhand,Pithoragarh,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Uttarakhand,Rudraprayag,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Uttarakhand,Rudraprayag,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Uttarakhand,Rudraprayag,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Uttarakhand,Tehri,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.6
+Uttarakhand,Tehri,Rabi,Mountain,21.6,371,50,Mountain Soil,5.6
+Uttarakhand,Tehri,Zaid,Mountain,31.6,247,45,Mountain Soil,5.6
+Uttarakhand,Udham Singh Nagar,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Uttarakhand,Udham Singh Nagar,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Uttarakhand,Udham Singh Nagar,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Uttarakhand,Uttarkashi,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Uttarakhand,Uttarkashi,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Uttarakhand,Uttarkashi,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+West Bengal,Alipurduar,Kharif,Coastal,24.6,2187,76,Alluvial,7.1
+West Bengal,Alipurduar,Rabi,Coastal,21.6,437,61,Alluvial,7.1
+West Bengal,Alipurduar,Zaid,Coastal,31.6,291,56,Alluvial,7.1
+West Bengal,Bankura,Kharif,Coastal,24.6,2187,76,Alluvial,6.9
+West Bengal,Bankura,Rabi,Coastal,21.6,437,61,Alluvial,6.9
+West Bengal,Bankura,Zaid,Coastal,31.6,291,56,Alluvial,6.9
+West Bengal,Birbhum,Kharif,Coastal,24.6,2187,76,Alluvial,7.0
+West Bengal,Birbhum,Rabi,Coastal,21.6,437,61,Alluvial,7.0
+West Bengal,Birbhum,Zaid,Coastal,31.6,291,56,Alluvial,7.0
+West Bengal,Cooch Behar,Kharif,Coastal,24.6,2187,76,Alluvial,7.0
+West Bengal,Cooch Behar,Rabi,Coastal,21.6,437,61,Alluvial,7.0
+West Bengal,Cooch Behar,Zaid,Coastal,31.6,291,56,Alluvial,7.0
+West Bengal,Dakshin Dinajpur,Kharif,Coastal,24.6,2187,76,Alluvial,7.3
+West Bengal,Dakshin Dinajpur,Rabi,Coastal,21.6,437,61,Alluvial,7.3
+West Bengal,Dakshin Dinajpur,Zaid,Coastal,31.6,291,56,Alluvial,7.3
+West Bengal,Darjeeling,Kharif,Mountain,16.6,2617,76,Mountain Soil,5.5
+West Bengal,Darjeeling,Rabi,Mountain,13.6,654,61,Mountain Soil,5.5
+West Bengal,Darjeeling,Zaid,Mountain,23.6,436,56,Mountain Soil,5.5
+West Bengal,Hooghly,Kharif,Coastal,24.6,2187,76,Alluvial,7.3
+West Bengal,Hooghly,Rabi,Coastal,21.6,437,61,Alluvial,7.3
+West Bengal,Hooghly,Zaid,Coastal,31.6,291,56,Alluvial,7.3
+West Bengal,Howrah,Kharif,Coastal,24.6,2187,76,Alluvial,6.6
+West Bengal,Howrah,Rabi,Coastal,21.6,437,61,Alluvial,6.6
+West Bengal,Howrah,Zaid,Coastal,31.6,291,56,Alluvial,6.6
+West Bengal,Jalpaiguri,Kharif,Coastal,24.6,2187,76,Alluvial,7.3
+West Bengal,Jalpaiguri,Rabi,Coastal,21.6,437,61,Alluvial,7.3
+West Bengal,Jalpaiguri,Zaid,Coastal,31.6,291,56,Alluvial,7.3
+West Bengal,Jhargram,Kharif,Coastal,24.6,2187,76,Alluvial,7.2
+West Bengal,Jhargram,Rabi,Coastal,21.6,437,61,Alluvial,7.2
+West Bengal,Jhargram,Zaid,Coastal,31.6,291,56,Alluvial,7.2
+West Bengal,Kalimpong,Kharif,Coastal,24.6,2187,76,Alluvial,6.9
+West Bengal,Kalimpong,Rabi,Coastal,21.6,437,61,Alluvial,6.9
+West Bengal,Kalimpong,Zaid,Coastal,31.6,291,56,Alluvial,6.9
+West Bengal,Kolkata,Kharif,Coastal,24.6,2187,76,Alluvial,7.0
+West Bengal,Kolkata,Rabi,Coastal,21.6,437,61,Alluvial,7.0
+West Bengal,Kolkata,Zaid,Coastal,31.6,291,56,Alluvial,7.0
+West Bengal,Malda,Kharif,Coastal,24.6,2187,76,Alluvial,6.9
+West Bengal,Malda,Rabi,Coastal,21.6,437,61,Alluvial,6.9
+West Bengal,Malda,Zaid,Coastal,31.6,291,56,Alluvial,6.9
+West Bengal,Murshidabad,Kharif,Coastal,24.6,2187,76,Alluvial,7.3
+West Bengal,Murshidabad,Rabi,Coastal,21.6,437,61,Alluvial,7.3
+West Bengal,Murshidabad,Zaid,Coastal,31.6,291,56,Alluvial,7.3
+West Bengal,Nadia,Kharif,Coastal,24.6,2187,76,Alluvial,7.0
+West Bengal,Nadia,Rabi,Coastal,21.6,437,61,Alluvial,7.0
+West Bengal,Nadia,Zaid,Coastal,31.6,291,56,Alluvial,7.0
+West Bengal,North 24 Parganas,Kharif,Coastal,24.6,2187,76,Alluvial,7.2
+West Bengal,North 24 Parganas,Rabi,Coastal,21.6,437,61,Alluvial,7.2
+West Bengal,North 24 Parganas,Zaid,Coastal,31.6,291,56,Alluvial,7.2
+West Bengal,Paschim Bardhaman,Kharif,Coastal,24.6,2187,76,Alluvial,6.6
+West Bengal,Paschim Bardhaman,Rabi,Coastal,21.6,437,61,Alluvial,6.6
+West Bengal,Paschim Bardhaman,Zaid,Coastal,31.6,291,56,Alluvial,6.6
+West Bengal,Paschim Medinipur,Kharif,Coastal,24.6,2187,76,Alluvial,6.6
+West Bengal,Paschim Medinipur,Rabi,Coastal,21.6,437,61,Alluvial,6.6
+West Bengal,Paschim Medinipur,Zaid,Coastal,31.6,291,56,Alluvial,6.6
+West Bengal,Purba Bardhaman,Kharif,Coastal,24.6,2187,76,Alluvial,7.0
+West Bengal,Purba Bardhaman,Rabi,Coastal,21.6,437,61,Alluvial,7.0
+West Bengal,Purba Bardhaman,Zaid,Coastal,31.6,291,56,Alluvial,7.0
+West Bengal,Purba Medinipur,Kharif,Coastal,24.6,2187,76,Alluvial,7.1
+West Bengal,Purba Medinipur,Rabi,Coastal,21.6,437,61,Alluvial,7.1
+West Bengal,Purba Medinipur,Zaid,Coastal,31.6,291,56,Alluvial,7.1
+West Bengal,Purulia,Kharif,Coastal,24.6,2187,76,Alluvial,7.2
+West Bengal,Purulia,Rabi,Coastal,21.6,437,61,Alluvial,7.2
+West Bengal,Purulia,Zaid,Coastal,31.6,291,56,Alluvial,7.2
+West Bengal,South 24 Parganas,Kharif,Coastal,24.6,2187,76,Alluvial,6.7
+West Bengal,South 24 Parganas,Rabi,Coastal,21.6,437,61,Alluvial,6.7
+West Bengal,South 24 Parganas,Zaid,Coastal,31.6,291,56,Alluvial,6.7
+West Bengal,Uttar Dinajpur,Kharif,Coastal,24.6,2187,76,Alluvial,7.1
+West Bengal,Uttar Dinajpur,Rabi,Coastal,21.6,437,61,Alluvial,7.1
+West Bengal,Uttar Dinajpur,Zaid,Coastal,31.6,291,56,Alluvial,7.1
+Andaman and Nicobar,Nicobar,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.4
+Andaman and Nicobar,Nicobar,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.4
+Andaman and Nicobar,Nicobar,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.4
+Andaman and Nicobar,North Middle Andaman,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Andaman and Nicobar,North Middle Andaman,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Andaman and Nicobar,North Middle Andaman,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Andaman and Nicobar,South Andaman,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Andaman and Nicobar,South Andaman,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Andaman and Nicobar,South Andaman,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Chandigarh,Chandigarh,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.5
+Chandigarh,Chandigarh,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.5
+Chandigarh,Chandigarh,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.5
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.0
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.0
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.0
+Dadra and Nagar Haveli and Daman and Diu,Daman,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Dadra and Nagar Haveli and Daman and Diu,Daman,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Dadra and Nagar Haveli and Daman and Diu,Daman,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Dadra and Nagar Haveli and Daman and Diu,Diu,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.9
+Dadra and Nagar Haveli and Daman and Diu,Diu,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.9
+Dadra and Nagar Haveli and Daman and Diu,Diu,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.9
+Delhi,Central Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.7
+Delhi,Central Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.7
+Delhi,Central Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.7
+Delhi,East Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Delhi,East Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Delhi,East Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Delhi,New Delhi,Kharif,Mountain,22.7,1074,60,Mountain Soil,5.6
+Delhi,New Delhi,Rabi,Mountain,19.7,268,45,Mountain Soil,5.6
+Delhi,New Delhi,Zaid,Mountain,29.7,179,40,Mountain Soil,5.6
+Delhi,North Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.7
+Delhi,North Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.7
+Delhi,North Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.7
+Delhi,North East Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.9
+Delhi,North East Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.9
+Delhi,North East Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.9
+Delhi,North West Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.7
+Delhi,North West Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.7
+Delhi,North West Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.7
+Delhi,Shahdara,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.5
+Delhi,Shahdara,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.5
+Delhi,Shahdara,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.5
+Delhi,South Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.1
+Delhi,South Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.1
+Delhi,South Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.1
+Delhi,South East Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Delhi,South East Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Delhi,South East Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Delhi,South West Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.9
+Delhi,South West Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.9
+Delhi,South West Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.9
+Delhi,West Delhi,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.3
+Delhi,West Delhi,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.3
+Delhi,West Delhi,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.3
+Jammu and Kashmir,Anantnag,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Jammu and Kashmir,Anantnag,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Jammu and Kashmir,Anantnag,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Jammu and Kashmir,Bandipora,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.5
+Jammu and Kashmir,Bandipora,Rabi,Mountain,21.6,371,50,Mountain Soil,5.5
+Jammu and Kashmir,Bandipora,Zaid,Mountain,31.6,247,45,Mountain Soil,5.5
+Jammu and Kashmir,Baramulla,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Jammu and Kashmir,Baramulla,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Jammu and Kashmir,Baramulla,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Jammu and Kashmir,Budgam,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Jammu and Kashmir,Budgam,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Jammu and Kashmir,Budgam,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Jammu and Kashmir,Doda,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Jammu and Kashmir,Doda,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Jammu and Kashmir,Doda,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Jammu and Kashmir,Ganderbal,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.9
+Jammu and Kashmir,Ganderbal,Rabi,Mountain,21.6,371,50,Mountain Soil,5.9
+Jammu and Kashmir,Ganderbal,Zaid,Mountain,31.6,247,45,Mountain Soil,5.9
+Jammu and Kashmir,Jammu,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Jammu and Kashmir,Jammu,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Jammu and Kashmir,Jammu,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Jammu and Kashmir,Kathua,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Jammu and Kashmir,Kathua,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Jammu and Kashmir,Kathua,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Jammu and Kashmir,Kishtwar,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.7
+Jammu and Kashmir,Kishtwar,Rabi,Mountain,21.6,371,50,Mountain Soil,6.7
+Jammu and Kashmir,Kishtwar,Zaid,Mountain,31.6,247,45,Mountain Soil,6.7
+Jammu and Kashmir,Kulgam,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Jammu and Kashmir,Kulgam,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Jammu and Kashmir,Kulgam,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Jammu and Kashmir,Kupwara,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Jammu and Kashmir,Kupwara,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Jammu and Kashmir,Kupwara,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Jammu and Kashmir,Poonch,Kharif,Mountain,24.6,1484,65,Mountain Soil,7.0
+Jammu and Kashmir,Poonch,Rabi,Mountain,21.6,371,50,Mountain Soil,7.0
+Jammu and Kashmir,Poonch,Zaid,Mountain,31.6,247,45,Mountain Soil,7.0
+Jammu and Kashmir,Pulwama,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Jammu and Kashmir,Pulwama,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Jammu and Kashmir,Pulwama,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Jammu and Kashmir,Rajouri,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.5
+Jammu and Kashmir,Rajouri,Rabi,Mountain,21.6,371,50,Mountain Soil,6.5
+Jammu and Kashmir,Rajouri,Zaid,Mountain,31.6,247,45,Mountain Soil,6.5
+Jammu and Kashmir,Ramban,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.0
+Jammu and Kashmir,Ramban,Rabi,Mountain,21.6,371,50,Mountain Soil,6.0
+Jammu and Kashmir,Ramban,Zaid,Mountain,31.6,247,45,Mountain Soil,6.0
+Jammu and Kashmir,Reasi,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.6
+Jammu and Kashmir,Reasi,Rabi,Mountain,21.6,371,50,Mountain Soil,6.6
+Jammu and Kashmir,Reasi,Zaid,Mountain,31.6,247,45,Mountain Soil,6.6
+Jammu and Kashmir,Samba,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.4
+Jammu and Kashmir,Samba,Rabi,Mountain,21.6,371,50,Mountain Soil,6.4
+Jammu and Kashmir,Samba,Zaid,Mountain,31.6,247,45,Mountain Soil,6.4
+Jammu and Kashmir,Shopian,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.1
+Jammu and Kashmir,Shopian,Rabi,Mountain,21.6,371,50,Mountain Soil,6.1
+Jammu and Kashmir,Shopian,Zaid,Mountain,31.6,247,45,Mountain Soil,6.1
+Jammu and Kashmir,Srinagar,Kharif,Mountain,24.6,1484,65,Mountain Soil,5.7
+Jammu and Kashmir,Srinagar,Rabi,Mountain,21.6,371,50,Mountain Soil,5.7
+Jammu and Kashmir,Srinagar,Zaid,Mountain,31.6,247,45,Mountain Soil,5.7
+Jammu and Kashmir,Udhampur,Kharif,Mountain,24.6,1484,65,Mountain Soil,6.2
+Jammu and Kashmir,Udhampur,Rabi,Mountain,21.6,371,50,Mountain Soil,6.2
+Jammu and Kashmir,Udhampur,Zaid,Mountain,31.6,247,45,Mountain Soil,6.2
+Ladakh,Kargil,Kharif,Arid,24.6,1484,65,Sandy,8.1
+Ladakh,Kargil,Rabi,Arid,21.6,371,50,Sandy,8.1
+Ladakh,Kargil,Zaid,Arid,31.6,247,45,Sandy,8.1
+Ladakh,Leh,Kharif,Arid,24.6,1484,65,Sandy,8.0
+Ladakh,Leh,Rabi,Arid,21.6,371,50,Sandy,8.0
+Ladakh,Leh,Zaid,Arid,31.6,247,45,Sandy,8.0
+Lakshadweep,Lakshadweep,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.8
+Lakshadweep,Lakshadweep,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.8
+Lakshadweep,Lakshadweep,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.8
+Puducherry,Karaikal,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.6
+Puducherry,Karaikal,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.6
+Puducherry,Karaikal,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.6
+Puducherry,Mahe,Kharif,Semi-arid,24.6,1484,65,Red Sandy,5.6
+Puducherry,Mahe,Rabi,Semi-arid,21.6,371,50,Red Sandy,5.6
+Puducherry,Mahe,Zaid,Semi-arid,31.6,247,45,Red Sandy,5.6
+Puducherry,Puducherry,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.2
+Puducherry,Puducherry,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.2
+Puducherry,Puducherry,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.2
+Puducherry,Yanam,Kharif,Semi-arid,24.6,1484,65,Red Sandy,6.8
+Puducherry,Yanam,Rabi,Semi-arid,21.6,371,50,Red Sandy,6.8
+Puducherry,Yanam,Zaid,Semi-arid,31.6,247,45,Red Sandy,6.8
