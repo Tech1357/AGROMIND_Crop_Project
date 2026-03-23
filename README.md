@@ -73,7 +73,7 @@ Then open your web browser and go to `http://localhost:5000`
 
 1. **Download the code:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tech1357/crop_feb.git
 cd crop_feb
 ```
 
@@ -129,6 +129,20 @@ All 28 states and 8 union territories of India with 700+ districts including:
 - **Weather Data**: NASA POWER API and OpenWeatherMap
 - **Government Schemes**: RAG AI system with official documents
 - **Coverage**: 700+ districts with real coordinates
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Acknowledgments
+
+- Dataset source: Agricultural research data
+- Built with Flask web framework
+- UI design inspired by modern agricultural technology interfaces
 
 ---
 
