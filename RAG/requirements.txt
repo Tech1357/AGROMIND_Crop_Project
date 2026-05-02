@@ -1,0 +1,9 @@
+pymongo
+sentence-transformers
+pdfplumber
+numpy
+torch
+fastapi
+uvicorn
+python-dotenv
+PyPDF2

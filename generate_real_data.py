@@ -7,6 +7,7 @@ import requests
 import pandas as pd
 import json
 import time
+import os
 from datetime import datetime, timedelta
 import numpy as np
 
@@ -16,9 +17,8 @@ class RealDataGenerator:
         self.nasa_power_url = "https://power.larc.nasa.gov/api/temporal/daily/point"
         self.openweather_url = "https://api.openweathermap.org/data/2.5/weather"
         
-        # You can get free API key from: https://openweathermap.org/api
-        # 1000 calls/day free
-        self.openweather_key = "YOUR_FREE_API_KEY_HERE"  # Replace with your key
+        # OpenWeatherMap API key from environment variable
+        self.openweather_key = os.getenv("OPENWEATHER_API_KEY", "")
         
         # District coordinates (major cities as reference points)
         self.district_coords = {
@@ -167,8 +167,8 @@ class RealDataGenerator:
         Get current weather from OpenWeatherMap (FREE - 1000 calls/day)
         """
         try:
-            if self.openweather_key == "YOUR_FREE_API_KEY_HERE":
-                print("Please set your OpenWeatherMap API key")
+            if not self.openweather_key:
+                print("Please set OPENWEATHER_API_KEY environment variable or provide API key")
                 return None
                 
             params = {
